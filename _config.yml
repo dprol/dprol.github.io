@@ -24,11 +24,11 @@ title:                Danny Prol
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Person that loves building software
+  Person that loves building software. Shining a light on things.
 
 # A shorter description for the sidebar.
 tagline:               >
-  Person that loves building software
+  Person that loves building software. Shining a light on things.
 
 # A list of keywords for your blog
 keywords:              []
