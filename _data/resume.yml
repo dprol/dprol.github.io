@@ -33,18 +33,6 @@ work:
       - Build an extensive automation Infrastructure.
       - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
       - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
-- company: "Glovo"
-    position: "Business Intelligence Consultant (Data Team) - Contract"
-    website: "https://glovoapp.com/"
-    startDate: "2019-01-01"
-    endDate: "2019-06-01"
-    summary: >
-       I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime).
-    highlights:
-      - Created queries and developed dashboards providing the needed insight for our operational marketing performance.
-      - Used statistical analysis to understand correlations, trends, and provided recommendations for changes based on these insights.
-      - Maintained internal and client LookML blocks.
-      - Developed and maintained SQL data models for a variety of business cases including web and mobile activity, attribution, and lifetime customer value in Redshift.
 volunteer:
   - organization: "Software Guru"
     position: "Host"
