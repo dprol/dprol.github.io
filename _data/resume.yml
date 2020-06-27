@@ -21,7 +21,7 @@ basics:
     - network: "LinkedIn"
       username: "dannyprol"
       url: "https://www.linkedin.com/in/dannyprol/"
-work:
+work0:
   - company: "IESE Business School"
     position: "Automation Technical Lead"
     website: "https://www.iese.edu/"
@@ -34,7 +34,7 @@ work:
       - Build an extensive automation Infrastructure.
       - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
       - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
-work:
+work1:
   - company: "Glovo"
     position: "Business Intelligence Consultant (Data Team) - Contract"
     website: "https://glovoapp.com/"
@@ -56,19 +56,19 @@ volunteer:
     summary: "Global movement of free coding clubs for young people."
     highlights:
       - "Awarded 'Teacher of the Month'"
-education:
+education0:
   - institution: "University of Navarra"
     area: "Communications"
     studyType: "Bachelor"
     startDate: "2012-09-01"
     endDate: "2016-06-01"
-education:
+education1:
   - institution: "International University of La Rioja"
     area: "Computer Science"
     studyType: "Bachelor"
     startDate: "2020-10-08"
     endDate: ""
-education:
+education2:
   - institution: "Open University of Catalonia"
     area: "Business Intelligence and Big Data Analytics"
     studyType: "Master of Science (M.S.)"
