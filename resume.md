@@ -7,13 +7,9 @@ hide_description: true
 menu: true
 order: 3
 left_column:
- - work0
- - work1
+ - work
  - volunteer
- - education0
- - education1
- - education2
- - awards
+ - education
  - publications
  - references
 right_column:
