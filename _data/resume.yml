@@ -25,7 +25,7 @@ work:
   - company: "IESE Business School"
     position: "Automation Technical Lead"
     website: "https://www.iese.edu/"
-    startDate: "2019-06-01"
+    startDate: "2019-06-04"
     endDate: ""
     summary: >
       Tech Lead for IESE's Automation Team. Key role in building IESE's Marketing Automation Platform. Helping make IESE Marketing & Sales more efficient with their time and money.
@@ -33,6 +33,20 @@ work:
       - Turn Salesforce Pardot Marketing automation into IESE’s marketing automation tool, automating the lead nurturing process to improve the Prospects’ retention and conversion as well as the lead source tracking.
       - Build an extensive automation Infrastructure.
       - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
+      - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
+work:
+  - company: "Glovo"
+    position: "Business Intelligence Consultant (Data Team) - Contract"
+    website: "https://glovoapp.com/"
+    startDate: "2019-01-01"
+    endDate: "2019-06-01"
+    summary: >
+      I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime).
+    highlights:
+      - Created queries and developed dashboards providing the needed insight for our operational marketing performance.
+      - Used statistical analysis to understand correlations, trends, and provided recommendations for changes based on these insights.
+      - Maintained internal and client LookML blocks.
+      - Developed and maintained SQL data models for a variety of business cases including web and mobile activity, attribution, and lifetime customer value in Redshift.
 volunteer:
   - organization: "Software Guru"
     position: "Host"
@@ -48,6 +62,18 @@ education:
     studyType: "Bachelor"
     startDate: "2012-09-01"
     endDate: "2016-06-01"
+education:
+  - institution: "International University of La Rioja"
+    area: "Computer Science"
+    studyType: "Bachelor"
+    startDate: "2020-10-08"
+    endDate: ""
+education:
+  - institution: "Open University of Catalonia"
+    area: "Business Intelligence and Big Data Analytics"
+    studyType: "Master of Science (M.S.)"
+    startDate: "2019-10-01"
+    endDate: "2021-10-01"
 awards:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"
