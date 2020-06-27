@@ -12,7 +12,7 @@ basics:
     I believe that software without ego can change the world. I can be reached at dprol@iese.edu
   location:
     city: "Barcelona"
-    region: "Spain"
+    region: "Catalonia"
     countryCode: "ES"
   profiles:
     - network: "Twitter"
@@ -34,6 +34,7 @@ work:
       - Build an extensive automation Infrastructure.
       - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
       - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
+      - "Technologies: Salesforce (Process Builder, Pardot, B2B Marketing Analytics, etc), Pardot (Pardot Implementation, Custom Pardot Development), MySQL Workbench, MS Reporting Services"
   - company: "Glovo"
     position: "Business Intelligence Consultant (Data Team) - Contract"
     website: "https://glovoapp.com/"
@@ -46,62 +47,60 @@ work:
       - Used statistical analysis to understand correlations, trends, and provided recommendations for changes based on these insights.
       - Maintained internal and client LookML blocks.
       - Developed and maintained SQL data models for a variety of business cases including web and mobile activity, attribution, and lifetime customer value in Redshift.
-  - company: "Ericsson"
-    position: "R&D Advance Software Engineer"
-    website: "https://www.ericsson.com/en"
-    startDate: "2018-09-01"
-    endDate: ""
+      - "Technologies: Amazon Redshift (Structure/Tables, Sources, ETL), Amazon S3, Amazon Aurora (MySQL), Python 3.6, Luigi, Jenkins, APIs (Braze, mParticle, Google Maps, Adjust, Singular, etc), Looker (developer mode), JSON, CSV, Google Sheets, BI Scripts, DataGrip, Confluence, GitHub"
+  - company: "Home Select"
+    position: "Business Data Analyst"
+    website: "https://www.homeselect.com/"
+    startDate: "2017-09-01"
+    endDate: "2019-01-01"
     summary: >
-      Ericsson, is a Swedish multinational networking and telecommunications 
-      company headquartered in Stockholm. The company offers services, 
-      software and infrastructure in information and communications technology for telecommunications.
+      Led analytics for the marketing and operations team. I built the company's data & analytics infrastructure from the ground up and enabled Home Select employees to self serve data.
     highlights:
-      - "Build 5G Policy control function"
-      - "Stack used: Java, Maven, Docker, Kubernetes, Helm"
-  - company: "Hyperloop UPV"
-    position: "Software Manager"
-    website: "https://hyperloopupv.com/"
-    startDate: "2016-09-01"
-    endDate: "2019-09-01"
-    summary: >
-      We are developing a futuristic pod design for the Hyperloop Pod Competition organized by SpaceX 
-      that will be held in Los Angeles at the SpaceX Headquarters
-    highlights:
-      - "Build the entire software Architecture.
-      We are focused on the improvement of the way we collect the data from the POD in order to analyze it"
-      - "Stack used: Java, Kafka, Spark, NodeJS, Electron, Docker, C++, Mule "
-  - company: "IVI RMA Global"
-    position: "Software Architect"
-    website: "https://ivi-fertility.com/"
-    startDate: "2016-01-01"
+      - Wrote SQL queries, analyzed data, and generated reports to facilitate decision-making in the operations department. Supported owners answering complex business questions via Tableau/using ad-hoc SQL queries.
+      - Defined and executed Home Select product analytics strategy. Used data from multiple sources (Woopra, Amplitude, GA, Mixpanel, & other analytics tools) to identify emerging markets, forecast marketing/sales trends and highlight opportunities for new initiatives.
+      - Served as tactical liaison for sales, engineering, and operations to provide the most accurate and relevant information to help drive meaningful business decisions.
+      - "Tools utilized: PowerBI, Stitch, Google BigQuery, Amplitude, MySQL, SendGrid (transactional and marketing emails), Zapier"
+  - company: "Cabify"
+    position: "CRM Developer"
+    website: "https://cabify.com/"
+    startDate: "2016-10-01"
     endDate: "2017-09-01"
     summary: >
-      IVI RMA Global is a medical institute entirely devoted to human reproduction since 1990. 
-      Nowadays, IVIRMA Global counts with a total of 65 clinics spread around 11 countries, 
-      7 investigation centers and teaching and training centers dedicated to Assisted Reproduction professionals.
+      I worked on the Global Marketing Team at Cabify, focused on building highly personalized yet automated cross channel (email, mobile, web) customer journeys. Designed and architected CRM solutions.
     highlights:
-      - "Build mobility and innovation projects for IVI clinics"
-      - "Stack used: Javascript, Java, Mule, Servoy, Maven"
-  - company: "Everis"
-    position: "Software Analyst"
-    website: "https://www.everis.com/global/en"
-    startDate: "2014-01-01"
-    endDate: "2017-01-01"
+      - Created multi-step cross channel lead generation & ongoing nurturing customer journeys.
+      - Supported local, regional and international CRM projects.
+      - "Tools utilized: HTML, CSS, Braze, Customer Journeys, CRM-campaigns (Email, SMS, Mobile Push…)"
+  - company: "Platzi"
+    position: "Technical Product Marketing"
+    website: "https://platzi.com/"
+    startDate: "2015-09-01"
+    endDate: "2016-10-01"
     summary: >
-      Everis is an NTT DATA Company, dedicated to consulting and outsourcing in all sectors.
-      Everis is a large family with 24,500 professionals across Europe, USA and Latin America.
+      Over my time at Platzi (YC W15), I led a number of key outbound marketing efforts.
     highlights:
-      - "Build complex software solutions"
-      - "Stack used: Java, Maven, Spring"
+      - Monitored day-to-day results for all paid media programs, and made changes required to hit campaign targets.
+      - Owned the optimization and management of paid search program across Google, including structure & targeting improvements, search query mining, keyword expansion, landing page testing and improvement of bid management processes.
+      - Worked with marketing colleagues to design, write, and build new campaign assets such as ad creative and landing pages
+      - "Tools utilized: Segment, Woopra, Facebook Ads, Facebook Analytics, Google Analytics, Google Tag Manager, Google Ads, AdRoll"
+  - company: "Mention"
+    position: "Growth Intern"
+    website: "https://mention.com/en/"
+    startDate: "2015-06-01"
+    endDate: "2015-09-01"
+    summary: >
+      Summer intern on the Growth team. Intern for Guillaume Cabane (former VP of Growth at Segment & VP of Growth at Drift).
+    highlights:
+      - Managed the creation and execution of promotional and lifecycle email marketing to customers
+      - Produced, reviewed, and scheduled all emails in Customer.io
+      - Analyzed email data (e.g., open rates, click-through rates, conversion) and developed insights/recommendations to share with internal stakeholders for ongoing optimization
 volunteer:
-  - organization: "Software Guru"
-    position: "Host"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
-    highlights:
-      - "Awarded 'Teacher of the Month'"
+  - organization: "PSE-Pour un Sourire d'Enfant"
+    position: "Volunteer"
+    website: "https://www.pse.ong/"
+    startDate: "2014-06-01"
+    endDate: "2014-09-01"
+    summary: "I worked as a fulltime volunteer for PSE in Cambodia. Helped the people there to get out of poverty. We taught values to the young people in Cambodia. Teaching English at PSE in rural areas in Cambodia."
 education:
   - institution: "University of Navarra"
     area: "Communications"
@@ -118,17 +117,12 @@ education:
     studyType: "Master of Science (M.S.)"
     startDate: "2019-10-01"
     endDate: "2021-10-01"
-awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+projects:
+  - name: "SaaS Product Chat Podcast"
+    publisher: "Co-Host"
+    releaseDate: "2018-04-12"
+    website: "https://saasproductchat.com/"
+    summary: "SW is one of the most important software development magazines in the world. A podcast for saas founders and developers interested in building great software products."
 skills:
   - name: "Web Development"
     level: "Master"
