@@ -4,47 +4,37 @@
 basics:
   name: "Danny Prol"
   label: "Programmer"
-  picture: "/assets/icons/icon.png"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  picture: "/assets/icons/IMG_2993.jpg"
+  email: "danielprolperez@gmail.com"
+  phone: "(+34) 693288586"
+  website: "https://dprol.github.io"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    I use data and computers to solve complex problems. I’m personally driven by learning and by impacting organizations I’ve been part of.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: "Carrer Corint 3"
+    postalCode: "08006"
+    city: "Barcelona"
+    countryCode: "ES"
+    region: "Barcelona"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+      username: "dannyprol"
+      url: "https://twitter.com/DannyProl/"
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "dannyprol"
+      url: "https://www.linkedin.com/in/dannyprol/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "IESE Business School"
+    position: "Automation Technical Lead"
+    website: "https://www.iese.edu/"
+    startDate: "2019-06-01"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      Tech Lead for IESE’s Automation Team. Key role in building IESE’s Marketing Automation platform.
     highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - Turn Salesforce Pardot Marketing automation into IESE’s marketing automation tool, automating the lead nurturing process to improve the Prospects’ retention and conversion as well as the lead source tracking.
+      - Build an extensive automation Infrastructure.
+      - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
 volunteer:
   - organization: "CoderDojo"
     position: "Teacher"
