@@ -11,7 +11,6 @@ left_column:
  - volunteer
  - education
  - publications
- - references
 right_column:
  - languages
  - skills
