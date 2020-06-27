@@ -21,7 +21,7 @@ basics:
     - network: "LinkedIn"
       username: "dannyprol"
       url: "https://www.linkedin.com/in/dannyprol/"
-work0:
+work:
   - company: "IESE Business School"
     position: "Automation Technical Lead"
     website: "https://www.iese.edu/"
@@ -34,7 +34,6 @@ work0:
       - Build an extensive automation Infrastructure.
       - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
       - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
-work1:
   - company: "Glovo"
     position: "Business Intelligence Consultant (Data Team) - Contract"
     website: "https://glovoapp.com/"
@@ -47,6 +46,53 @@ work1:
       - Used statistical analysis to understand correlations, trends, and provided recommendations for changes based on these insights.
       - Maintained internal and client LookML blocks.
       - Developed and maintained SQL data models for a variety of business cases including web and mobile activity, attribution, and lifetime customer value in Redshift.
+  - company: "Ericsson"
+    position: "R&D Advance Software Engineer"
+    website: "https://www.ericsson.com/en"
+    startDate: "2018-09-01"
+    endDate: ""
+    summary: >
+      Ericsson, is a Swedish multinational networking and telecommunications 
+      company headquartered in Stockholm. The company offers services, 
+      software and infrastructure in information and communications technology for telecommunications.
+    highlights:
+      - "Build 5G Policy control function"
+      - "Stack used: Java, Maven, Docker, Kubernetes, Helm"
+  - company: "Hyperloop UPV"
+    position: "Software Manager"
+    website: "https://hyperloopupv.com/"
+    startDate: "2016-09-01"
+    endDate: "2019-09-01"
+    summary: >
+      We are developing a futuristic pod design for the Hyperloop Pod Competition organized by SpaceX 
+      that will be held in Los Angeles at the SpaceX Headquarters
+    highlights:
+      - "Build the entire software Architecture.
+      We are focused on the improvement of the way we collect the data from the POD in order to analyze it"
+      - "Stack used: Java, Kafka, Spark, NodeJS, Electron, Docker, C++, Mule "
+  - company: "IVI RMA Global"
+    position: "Software Architect"
+    website: "https://ivi-fertility.com/"
+    startDate: "2016-01-01"
+    endDate: "2017-09-01"
+    summary: >
+      IVI RMA Global is a medical institute entirely devoted to human reproduction since 1990. 
+      Nowadays, IVIRMA Global counts with a total of 65 clinics spread around 11 countries, 
+      7 investigation centers and teaching and training centers dedicated to Assisted Reproduction professionals.
+    highlights:
+      - "Build mobility and innovation projects for IVI clinics"
+      - "Stack used: Javascript, Java, Mule, Servoy, Maven"
+  - company: "Everis"
+    position: "Software Analyst"
+    website: "https://www.everis.com/global/en"
+    startDate: "2014-01-01"
+    endDate: "2017-01-01"
+    summary: >
+      Everis is an NTT DATA Company, dedicated to consulting and outsourcing in all sectors.
+      Everis is a large family with 24,500 professionals across Europe, USA and Latin America.
+    highlights:
+      - "Build complex software solutions"
+      - "Stack used: Java, Maven, Spring"
 volunteer:
   - organization: "Software Guru"
     position: "Host"
@@ -56,19 +102,17 @@ volunteer:
     summary: "Global movement of free coding clubs for young people."
     highlights:
       - "Awarded 'Teacher of the Month'"
-education0:
+education:
   - institution: "University of Navarra"
     area: "Communications"
     studyType: "Bachelor"
     startDate: "2012-09-01"
     endDate: "2016-06-01"
-education1:
   - institution: "International University of La Rioja"
     area: "Computer Science"
     studyType: "Bachelor"
     startDate: "2020-10-08"
     endDate: ""
-education2:
   - institution: "Open University of Catalonia"
     area: "Business Intelligence and Big Data Analytics"
     studyType: "Master of Science (M.S.)"
