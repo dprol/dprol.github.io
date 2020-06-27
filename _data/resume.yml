@@ -11,11 +11,8 @@ basics:
   summary: >
     I use data and computers to solve complex problems. I’m personally driven by learning and by impacting organizations I’ve been part of.
   location:
-    address: "Carrer Corint 3"
-    postalCode: "08006"
     city: "Barcelona"
-    countryCode: "ES"
-    region: "Barcelona"
+    region: "Spain"
   profiles:
     - network: "Twitter"
       username: "dannyprol"
@@ -30,14 +27,27 @@ work:
     startDate: "2019-06-01"
     endDate: ""
     summary: >
-      Tech Lead for IESE’s Automation Team. Key role in building IESE’s Marketing Automation platform.
+      Tech Lead for IESE's Automation Team. Key role in building IESE's Marketing Automation Platform. Helping make IESE Marketing & Sales more efficient with their time and money.
     highlights:
       - Turn Salesforce Pardot Marketing automation into IESE’s marketing automation tool, automating the lead nurturing process to improve the Prospects’ retention and conversion as well as the lead source tracking.
       - Build an extensive automation Infrastructure.
       - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
+      - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
+- company: "Glovo"
+    position: "Business Intelligence Consultant (Data Team) - Contract"
+    website: "https://glovoapp.com/"
+    startDate: "2019-01-01"
+    endDate: "2019-06-01"
+    summary: >
+       I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime).
+    highlights:
+      - Created queries and developed dashboards providing the needed insight for our operational marketing performance.
+      - Used statistical analysis to understand correlations, trends, and provided recommendations for changes based on these insights.
+      - Maintained internal and client LookML blocks.
+      - Developed and maintained SQL data models for a variety of business cases including web and mobile activity, attribution, and lifetime customer value in Redshift.
 volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
+  - organization: "Software Guru"
+    position: "Host"
     website: "https://coderdojo.com/"
     startDate: "2012-01-01"
     endDate: "2013-01-01"
@@ -45,15 +55,21 @@ volunteer:
     highlights:
       - "Awarded 'Teacher of the Month'"
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
+  - institution: "University of Navarra"
+    area: "Communications"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+    startDate: "2012-09-01"
+    endDate: "2016-06-01"
+    - institution: "International University of La Rioja"
+    area: "Computer Science"
+    studyType: "Bachelor"
+    startDate: "2020-10-08"
+    endDate: ""
+    - institution: "Open University of Catalonia"
+    area: "Business Intelligence and Big Data Analytics"
+    studyType: "Master of Science (M.S.)"
+    startDate: "2019-10-01"
+    endDate: "2021-10-01"
 awards:
   - title: "Digital Compression Pioneer Award"
     date: "2014-11-01"
