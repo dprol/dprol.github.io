@@ -13,6 +13,7 @@ basics:
   location:
     city: "Barcelona"
     region: "Spain"
+    countryCode: "ES"
   profiles:
     - network: "Twitter"
       username: "dannyprol"
