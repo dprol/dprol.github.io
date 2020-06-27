@@ -8,7 +8,10 @@ menu: true
 order: 3
 left_column:
  - work
+ - work
  - volunteer
+ - education
+ - education
  - education
  - awards
  - publications
