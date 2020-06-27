@@ -2,8 +2,7 @@
 layout: resume
 title: Resume
 description: >
-  This is the `description` of your resume page, as it will be seen by search engines.
-  Open `resume.md` to edit this text.
+  I believe that software without ego can change the world. I can be reached at dprol@iese.edu
 hide_description: false
 menu: true
 order: 3
