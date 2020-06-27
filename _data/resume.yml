@@ -33,6 +33,19 @@ work:
       - Build an extensive automation Infrastructure.
       - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
       - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
+ work:
+  - company: "IESE Business School"
+    position: "Automation Technical Lead"
+    website: "https://www.iese.edu/"
+    startDate: "2019-06-01"
+    endDate: ""
+    summary: >
+      Tech Lead for IESE's Automation Team. Key role in building IESE's Marketing Automation Platform. Helping make IESE Marketing & Sales more efficient with their time and money.
+    highlights:
+      - Turn Salesforce Pardot Marketing automation into IESE’s marketing automation tool, automating the lead nurturing process to improve the Prospects’ retention and conversion as well as the lead source tracking.
+      - Build an extensive automation Infrastructure.
+      - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
+      - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
 volunteer:
   - organization: "Software Guru"
     position: "Host"
