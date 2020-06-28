@@ -20,6 +20,10 @@ basics:
     - network: "LinkedIn"
       username: "dannyprol"
       url: "https://www.linkedin.com/in/dannyprol/"
+    - network: "GitHub"
+      username: "dprol"
+      url: "https://github.com/dprol"
+      
 work:
   - company: "IESE Business School"
     position: "Automation Technical Lead"
@@ -30,28 +34,25 @@ work:
       Tech Lead for IESE's Automation Team. Key role in building IESE's Marketing Automation Platform. Helping make IESE Marketing & Sales more efficient with their time and money.
     highlights:
       - Turn Salesforce Pardot automation into IESE's marketing automation tool, automating the lead nurturing process to improve the Prospects' retention and conversion as well as the lead source tracking.
-      - Build an extensive automation Infrastructure.
       - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
       - Development and implementation of build release pipelines with personal accountability for managing deployment schedules, issues, risks, and impediments.
-      - Work with Product owners and IT stakeholders to prioritize backlogs, deliver solutions through environments and into production.
-      - Review operations logs and events to ensure operational issues are deal with appropriately and in a timely manner.
-      - Process and manage our CRM's information, scoring and completing profiles, keeping their status up to date and adding information to support the IESE activities.
-      - Support the design, setup, execute and optimize key customer and candidate journeys to improve lead nurturing. This includes content strategy and continuous A/B Testing.
-      - Work with Salesforce and internal divisions to better define data points (e.g. segmentation) and touchpoints (e.g. events, milestones).
+      - Work with Business Partners and IT stakeholders to prioritize backlogs, deliver solutions through environments and into production.
       - Build a marketing automation platform to improve cost and volume efficiency while enabling our marketing team to run more complex, high-impact experiments.
       - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
+      - "Technologies: Salesforce (Process Builder, B2B Marketing Analytics, etc), Pardot (Pardot Implementation, Custom Pardot Development), MySQL Workbench, MS Reporting Services."
   - company: "Glovo"
     position: "Business Intelligence Consultant (Data Team) - Contract"
     website: "https://glovoapp.com/"
     startDate: "2019-01-01"
     endDate: "2019-06-01"
     summary: >
-      I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime).
+      I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime). I worked in business intelligence by doing design and development of business reports for teams with the Looker technology. As a BI Analyst, I engage with a wide variety of stakeholders, from the CMO to software engineers, using data to inform company decisions and discover insights.
     highlights:
       - Created queries and developed dashboards providing the needed insight for our operational marketing performance.
       - Used statistical analysis to understand correlations, trends, and provided recommendations for changes based on these insights.
       - Maintained internal and client LookML blocks.
       - Developed and maintained SQL data models for a variety of business cases including web and mobile activity, attribution, and lifetime customer value in Redshift.
+      - "Technologies: Amazon Redshift (Structure/Tables, Sources, ETL), Amazon S3, Amazon Aurora (MySQL), Jenkins, APIs (Braze, mParticle, Google Maps, Adjust, Singular, etc), Looker (developer mode) JSON, CSV, Google Sheets, BI Scripts, DataGrip, Confluence, GitHub."
   - company: "Home Select"
     position: "Business Data Analyst"
     website: "https://www.homeselect.com/"
@@ -69,6 +70,7 @@ work:
       - Served as tactical liaison for sales, engineering, and operations to provide the most accurate and relevant information to help drive meaningful business decisions.
       - Designed internal company dashboard and core metrics for success.
       - Cared deeply about data quality and empowering employees to leverage data to help them succeed in their careers and help Home Select grow and succeed.
+      - "Tools utilized: PowerBI, Stitch, Google BigQuery, Amplitude, MySQL, SendGrid (transactional and marketing emails), Zapier."
   - company: "Cabify"
     position: "CRM Developer"
     website: "https://cabify.com/"
@@ -83,6 +85,7 @@ work:
       - Built reports/dashboards in Spreadsheets to report on campaign performance and provide guidance for segment as well as content optimization.
       - Supported local, regional and international CRM projects.
       - Developed, tested, deployed and maintained automations, workflows and internal applications for Zendesk, a customer support system used by Cabify.
+      - "Tools utilized: HTML, CSS, Braze, Customer Journeys, CRM-campaigns (Email, SMS, Mobile Push…)."
   - company: "Platzi"
     position: "Technical Product Marketing"
     website: "https://platzi.com/"
@@ -98,6 +101,7 @@ work:
       - Developed and executed PPC, display, remarketing and other paid media campaigns.
       - Managed 3rd party agency resources/relationships.
       - Positioned both existing and new courses to best match the needs and desires of prospective students.
+      - "Tools utilized: Segment, Woopra, Facebook Ads, Facebook Analytics, Google Analytics, Google Tag Manager, Google Ads, AdRoll."
   - company: "Mention"
     position: "Growth Intern"
     website: "https://mention.com/en/"
@@ -134,25 +138,21 @@ education:
     studyType: "Master of Science (M.S.)"
     startDate: "2019-10-01"
     endDate: "2021-10-01"
-projects:
-  - name: "SaaS Product Chat Podcast"
-    publisher: "Co-Host"
-    releaseDate: "2018-04-12"
-    website: "https://saasproductchat.com/"
-    summary: "SW is one of the most important software development magazines in the world. A podcast for saas founders and developers interested in building great software products."
 skills:
   - name: "Web Development"
     level: "Master"
     keywords:
       - "HTML"
       - "CSS"
-      - "Javascript"
-  - name: "Compression"
+      - "GitHub, Markdown, shell scripting, R"
+      - "WordPress: Plugins, Themes"
+  - name: "Data"
     level: "Master"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Segment/Amplitude/etc"
+      - "PostgreSQL"
+      - "Looker"
+      - "MongoDB"
 languages:
   - language: "Spanish"
     fluency: "Native speaker"
