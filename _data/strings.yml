@@ -102,7 +102,6 @@ resume:
   location:            Location
   location_separator:  ', '
   email:               Email
-  phone:               Phone
   website:             Website
   work:                Experience
   work_title:          <!--position--> at <!--company-->
