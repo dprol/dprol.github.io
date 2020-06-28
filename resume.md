@@ -10,7 +10,7 @@ left_column:
  - work
  - volunteer
  - education
- - publications
+ - projects
 right_column:
  - languages
  - skills
