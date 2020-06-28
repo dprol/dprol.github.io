@@ -1,9 +1,9 @@
 ---
-title: Documentation
+title: Stuff I use
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  Stuff I use from my computing setup to home gear.
 hide_description: true
-permalink: /docs/
+permalink: /stuff/
 ---
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
