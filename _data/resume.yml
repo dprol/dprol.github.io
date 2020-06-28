@@ -3,13 +3,12 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Danny Prol"
-  label: "Software nerd"
+  label: "A technologist building tools for education."
   picture: "/assets/icons/IMG_2993.jpg"
   email: "danielprolperez@gmail.com"
-  phone: "(+34) 693288586"
   website: "https://dprol.github.io"
   summary: >
-    I believe that software without ego can change the world. I can be reached at dprol@iese.edu
+    I believe that software without ego can change the world
   location:
     city: "Barcelona"
     region: "Catalonia"
@@ -137,15 +136,13 @@ skills:
       - "MP4"
       - "GIF"
 languages:
-  - language: "English"
+  - language: "Spanish"
     fluency: "Native speaker"
+  - language: "English"
+    fluency: "Full professional proficiency"
 interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+  - name: "Backpacking in the mountains"
+  - name: "Photography"
+  - name: "Podcasts"
+  - name: "Pixar"
+  - name: "Digital Products"
