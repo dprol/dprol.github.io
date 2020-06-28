@@ -5,7 +5,7 @@ hide_description: true
 ---
 
 # About Me
-I use data and computers to solve complex problems. I’m personally driven by learning and by impacting organizations I’ve been part of.
+For past 4 years I’ve been involved in helping companies ranging from consumer and SaaS startups (Platzi, Cabify, Glovo) to larger enterprises (Home Select, IESE) with architecting and building their data products. Experienced in product building, software development, and data analytics. I love seeking to understand user behavior through iterative development and data. 
 
 ## Links
 * My <a href= "https://twitter.com/DannyProl">Twitter account</a> is mostly stuff about web development, software, startups, databases, philosophy, product strategy and data operations.
