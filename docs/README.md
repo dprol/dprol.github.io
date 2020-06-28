@@ -1,12 +1,12 @@
 ---
 title: Stuff I use
 description: >
-  Stuff I use from my computing setup to home gear.
+  Stuff I use from my computing setup to camera gear.
 hide_description: true
 permalink: /stuff/
 ---
 
-Stuff I use from my computing setup to home gear:
+Stuff I use from my computing setup to camera gear:
 
 ## Products I use
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
