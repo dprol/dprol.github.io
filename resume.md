@@ -2,7 +2,7 @@
 layout: resume
 title: Resume
 description: >
-  I believe that software without ego can change the world. I can be reached at dprol@iese.edu
+  I believe that software without ego can change the world
 hide_description: true
 menu: true
 order: 3
