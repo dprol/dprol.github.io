@@ -1,28 +1,21 @@
 ---
 layout: project
-title: 'hy-drawer'
+title: 'SaaS Product Chat'
 date: 4 Sep 2016
-image: /assets/img/projects/hy-drawer.svg
-screenshot: /assets/img/projects/hy-drawer.svg
+image: /assets/img/projects/saasproductchat.jpg
+screenshot: /assets/img/projects/saasproductchat.jpg
 links:
   - title: Website
-    url: https://hydecorp.github.io/hy-drawer/
-  - title: Source
-    url: https://github.com/hydecorp/hy-drawer
-caption: A touch-enabled drawer component
+    url: https://saasproductchat.com/
+  - title: YouTube
+    url: https://www.youtube.com/playlist?list=PLnLzwYW6HOC6SJ4d66pMm8ZWjEmgIwwRp
+caption: The SaaS Product Chat Podcast
 description: >
-  hy-drawer is a touch-enabled drawer web component for the modern web.
+  A podcast for saas founders and developers interested in building great software products..
 accent_color: '#4fb1ba'
 accent_image:
   background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
   overlay:    true
 ---
 
-**hy-drawer** is a touch-enabled drawer component for the modern web. It focuses on providing a fun, natural feel in both the Android and iOS stock browser, while being performant and easy to use. It is the perfect companion for mobile-first web pages and progressive web apps.
-
-> A touch-enabled drawer component for the modern web.
-{:.lead}
-
-**hy-drawer** is used by hundreds of sites as part of the [Hydejack] Jekyll theme.
-
-[hydejack]: ../README.md
+**Software Guru** is one of the most important software development magazines in the world. A podcast for saas founders and developers interested in building great software products.
