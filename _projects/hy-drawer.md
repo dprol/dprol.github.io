@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'SaaS Product Chat'
-date: 2018-2020
+date: 12 Apr 2018
 image: /assets/img/projects/saasproductchat.jpg
 screenshot: /assets/img/projects/saasproductchat.jpg
 links:
