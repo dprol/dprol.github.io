@@ -2,8 +2,8 @@
 layout: project
 title: 'Big Data Podcast'
 date: 1 Mar 2020
-image: /assets/img/projects/Big Data Podcast 3x.png
-screenshot: /assets/img/projects/Big Data Podcast 3x.png
+image: /assets/img/projects/BigDataPodcast.png
+screenshot: /assets/img/projects/BigDataPodcast.png
 links:
   - title: Website
     url: https://bigdatapodcast.co/
