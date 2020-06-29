@@ -22,6 +22,9 @@ basics:
     - network: "GitHub"
       username: "dprol"
       url: "https://github.com/dprol"
+    - network: "Spotify"
+      username: danielprol
+      url: "https://open.spotify.com/user/danielprol"
       
 work:
   - company: "IESE Business School"
