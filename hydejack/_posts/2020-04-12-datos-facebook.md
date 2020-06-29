@@ -2,6 +2,7 @@
 title: El ciclo de vida de los datos en Facebook
 description: >
   El acrónimo GAFA hace referencia a las grandes compañías tecnológicas Google, Amazon, Facebook y Apple.
+  excerpt_separator: <!--more-->
 ---
 
 En esta ocasión, he decidido investigar y desarrollar un análisis del valor que está extrayendo de los datos Facebook haciendo referencia a:
@@ -10,6 +11,8 @@ En esta ocasión, he decidido investigar y desarrollar un análisis del valor qu
 * Qué valor se genera con esos datos recogidos (valor).
 * Cómo el valor de esos datos le diferencia o ayuda a nivel de competitividad sobre otros actores de su mercado (competitividad).
 * Qué posibles nuevos usos de esos datos en Facebook podrían generar un impacto claro en el valor del producto o servicios ofrecido o que incluso, dieran lugar a un nuevo producto/servicio (proyecto).
+
+<!--more-->
 
 ### Cuál es el origen de los datos y cómo se capturan (origen).
 
