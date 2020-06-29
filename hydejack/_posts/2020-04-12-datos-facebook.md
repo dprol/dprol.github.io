@@ -2,7 +2,7 @@
 title: El ciclo de vida de los datos en Facebook
 description: >
   El acrónimo GAFA hace referencia a las grandes compañías tecnológicas Google, Amazon, Facebook y Apple.
-  excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 En esta ocasión, he decidido investigar y desarrollar un análisis del valor que está extrayendo de los datos Facebook haciendo referencia a:
