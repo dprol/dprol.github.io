@@ -1,0 +1,12 @@
+---
+layout: post
+title: Almacén de datos vs. sistemas operacionales
+description: >
+  ¿Cuáles son los principales objetivos que cubre un almacén de datos, en contraposición a los sistemas operacionales?
+excerpt_separator: <!--more-->
+---
+**La principal diferencia** entre un almacén de datos y los sistemas operacionales es su objetivo, el primero está orientado al análisis y la toma de decisiones y los segundos a las operaciones del día a día y a la operativa diaria de la empresa. Por tanto, podemos prever que los sistemas operacionales reciben multitud de transacciones repetitivas y conocidas y el almacén de datos recibe consultas masivas, puntuales y no conocidas. 
+
+Como diferencia encontramos también el rendimiento, la volatilidad, los usuarios (más expertos en el almacén de datos), estructura (relacional versus multidimensional), alcance histórico, detalle de los datos y el volumen, mucho mayor en un almacén de datos. Los datos que contiene el almacén de datos han de estar integrados en una estructura consistente porque, entre sus objetivos, está el de eliminar las posibles inconsistencias que se dan entre los diferentes sistemas operacionales. 
+
+Con el fin de agilizar las consultas, todos los datos que provienen del entorno operacional han de organizarse por temas. Ante una consulta, resulta más eficaz realizar una búsqueda si toda la información vive en el mismo lugar. La medida tiempo está implícita en toda la información que contiene el almacén de datos. A diferencia de los sistemas operacionales, que siempre muestran una foto de los datos actuales de la organización, la información que se almacena en el almacén de datos tiene variables diferentes para diferentes momentos de tiempo. Las operaciones que se pueden realizar sobre la información que contiene un almacén de datos son de sólo lectura, sus datos no pueden ser modificados. Las actualizaciones de datos en un almacén de datos se refieren únicamente a incorporar nuevos valores a las variables que contiene. Los metadatos que contiene van a permitir que el traspaso de la información de los sistemas operacionales al almacén de datos resulte más simple y que se pueda automatizar, ya que nos van a permitir saber, en todo momento, de dónde procede la información, cómo fue calculada, cada cuánto tiempo se refresca, o cómo de fiable es.
