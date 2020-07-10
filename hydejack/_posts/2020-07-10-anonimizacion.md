@@ -22,7 +22,7 @@ Estos son algunos ejemplos de riesgos referentes a la preservación de la privac
   - add_to_cart_order: orden en el cual cada producto fue añadido al carro
   - reordered: 1 si el producto ya había sido comprado, 0 si no
 
-  *  Riesgos:
+Riesgos:
 
 El contexto puede llevar a la identificación. Por ejemplo, en el caso de que en este sitio de compras online se puedan dejar reseñas, aunque elimines el username y los IDs sean aleatorios, no deja de ser posible establecer una relación entre este sitio de compras y un usuario de amazon con reseñas similares.
 
@@ -47,7 +47,7 @@ En el caso de que se almacenemos transacciones anonimizadas pero atribuidas a un
   - reordered: 1 si el producto ya había sido comprado, 0 si no
   - order_date: fecha en la que han realizado la compra
 
-  * Riesgos:
+Riesgos:
 
 Un riesgo para la empresa es el siguiente: quieres anonimizar los datos pero tampoco quieres data no relevante por lo que tienes que mantener relaciones lógicas entre los datos para tomar decisiones informadas por esos datos.
 
@@ -79,7 +79,7 @@ Que los registros puedan vincularse a uno o varios interesados, es decir, que la
   - Number of bedrooms/bathrooms: número de habitaciones/baños
   - Home type: tipo de casa
 
-  * Riesgos:
+Riesgos:
 
 Que los registros del barrio permitan singularizarse en uno o varios interesados, es decir, que podamos extraer de este dataset algunos registros que identifiquen a una persona. La K-anonimidad puede ser útil para resolver este problema de la singularidad, pues los mismos atributos son compartidos por K usuarios y por lo tanto no es posible señalar unívocamente a un individuo dentro de un grupo de K usuarios.
 
