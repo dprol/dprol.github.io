@@ -153,6 +153,7 @@ skills:
     keywords:
       - "MongoDB"
       - "PostgreSQL"
+      - "MySQL"
       - "SQL Server"
       - "R"
   - name: "MarTech tooling"
