@@ -28,7 +28,7 @@ El contexto puede llevar a la identificación. Por ejemplo, en el caso de que en
 
 Vemos que entre los campos no se encuentran datos que pueden ser considerados de identificación personal como nombre, fecha de nacimiento, número de teléfono, número de cédula de ciudadanía, correo electrónico o dirección de domicilio pero podemos saber muchas cosas de alguien sin que nos proporcione estos datos. Es decir, estamos dejando rasgos nuestros a la plataforma que otras pueden aprovechar para hacer match con los datos que tengan de ti. La conclusión aquí es que solo eliminar los nombres no hace nada por la privacidad y anonimización de los datos.
 
-En el caso de que se almacenemos transacciones anonimizadas pero atribuidas a un user id, podemos encontrarnos otra base de datos dentro de la misma empresa que también haga un match entre tu user id y datos personales por lo que te vuelves indentificable.
+En el caso de que se almacenen transacciones anonimizadas pero atribuidas a un userid, podemos encontrarnos otra base de datos dentro de la misma empresa que también haga un match entre tu userid y datos personales por lo que te vuelves indentificable.
 
 
 
@@ -51,7 +51,7 @@ Riesgos:
 
 Un riesgo para la empresa es el siguiente: quieres anonimizar los datos pero tampoco quieres data no relevante por lo que tienes que mantener relaciones lógicas entre los datos para tomar decisiones informadas por esos datos.
 
-Tras la anonimización existe siempre un riesgo de reidentificación de la información, (lo que hoy es anónimo dentro de 5 años puede que no lo sea por el avance de la tecnología) lo que nos obliga a realizar un análisis de riesgos para eliminarlo o minimizarlo (riesgo residual aceptable), e incluso realizar una evaluación de impacto.
+Tras la anonimización existe siempre un riesgo de reidentificación de la información (lo que hoy es anónimo dentro de 5 años puede que no lo sea), lo que nos obliga a realizar un análisis de riesgos para eliminarlo o minimizarlo (riesgo residual aceptable), e incluso realizar una evaluación de impacto.
 
 Que los registros puedan vincularse a uno o varios interesados, es decir, que las compras de un ID puedan vincularse.
 
