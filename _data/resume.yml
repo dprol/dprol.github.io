@@ -141,27 +141,26 @@ education:
     startDate: "2019-10-01"
     endDate: "2021-10-01"
 skills:
-  - name: "Web Development"
+  - name: "Programming"
     level: "Master"
     keywords:
       - "HTML/CSS"
       - "Apache Hadoop/Spark"
       - "APIs"
-      - "WordPress: Plugins, Themes"
-  - name: "Data"
+      - "R"
+  - name: "Databases"
     level: "Master"
     keywords:
       - "MongoDB"
       - "PostgreSQL"
       - "MySQL"
       - "SQL Server"
-      - "R"
   - name: "MarTech tooling"
     level: "Master"
     keywords:
       - "Segment"
       - "Looker (development mode)"
-      - "PowerBI"
+      - "Pardot (Salesforce)"
       - "Google Tag Manager"
 languages:
   - language: "Spanish"
