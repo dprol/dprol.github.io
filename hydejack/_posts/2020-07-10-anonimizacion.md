@@ -5,7 +5,7 @@ description: >
   Con la palabra anonimización se reconoce el dato disociado, como aquel que no permite la identificación de un afectado o interesado.
 excerpt_separator: <!--more-->
 ---
-Estos son algunos ejemplos de riesgo referentes a la preservación de la privacidad o anonimización que consiste en alterar o introducir ruido en los datos para que la reidentificación de los usuarios no sea posible:
+Estos son algunos ejemplos de riesgos referentes a la preservación de la privacidad o anonimización que consiste en alterar o introducir ruido en los datos para que la reidentificación de los usuarios no sea posible:
 <!--more-->
 
 * Ejemplo 1: A partir de las compras obtener el cliente que ha realizado las compras.
