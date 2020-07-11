@@ -28,7 +28,7 @@ Se deberían tener gestos gratuitos. Ser naturales y nobles con lo que pensamos,
 
 **Familia o la gente que me quiere**
 
-En la familia en donde se forjan las costumbres y el carácter. El amor es lo que de verdad nos hace libres y nos hace hacer cosas óptimas. A veces me corrigen en mi familia, pero me lo tomo como algo positivo porque me quieren y me ponen en primer lugar, quieren lo mejor para mí. La corrección es un termómetro de si se está haciendo bien la caridad. Fortalece mucho la unidad de la familia. Creo que tengo que aprender a escuchar más, porque escuchar es caridad. Para esto tengo que estar disponible y tener tiempo para escuchar a la gente porque esto necesita paciencia. Este cariño se manifiesta también en saber preguntar cómo está cada uno o saber qué le interesa a cada uno. Procuro hacer lo que me gustarían que hicieran los demás por mí porque la familia es la mejor dotada para dar ejemplo.
+En la familia es donde se forjan las costumbres y el carácter. El amor es lo que de verdad nos hace libres y nos hace hacer cosas óptimas. A veces me corrigen en mi familia, pero me lo tomo como algo positivo porque me quieren y me ponen en primer lugar, quieren lo mejor para mí. La corrección es un termómetro de si se está haciendo bien la caridad. Fortalece mucho la unidad de la familia. Creo que tengo que aprender a escuchar más, porque escuchar es caridad. Para esto tengo que estar disponible y tener tiempo para escuchar a la gente porque esto necesita paciencia. Este cariño se manifiesta también en saber preguntar cómo está cada uno o saber qué le interesa a cada uno. Procuro hacer lo que me gustarían que hicieran los demás por mí porque la familia es la mejor dotada para dar ejemplo.
 
 **Amigos o mi relación con los demás**
 
