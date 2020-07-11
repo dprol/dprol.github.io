@@ -7,7 +7,7 @@ basics:
   picture: "/assets/icons/IMG_2993.jpg"
   email: "danielprolperez@gmail.com"
   summary: >
-    I believe that software without ego can change the world. I do things my mom doesn't understand. Always interested in taking on the hard problems.
+    You can check out my LinkedIn profile for more detailed information on my background.
   location:
     city: "Barcelona"
     region: "Catalonia"
@@ -34,14 +34,6 @@ work:
     endDate: ""
     summary: >
       Tech Lead for IESE's Automation Team. Key role in building IESE's Marketing Automation Platform. Helping make IESE Marketing & Sales more efficient with their time and money.
-    highlights:
-      - Turn Salesforce Pardot automation into IESE's marketing automation tool, automating the lead nurturing process to improve the Prospects' retention and conversion as well as the lead source tracking.
-      - Raise the quality of our product and provide scalability by creating new automation frameworks and tools.
-      - Development and implementation of build release pipelines with personal accountability for managing deployment schedules, issues, risks, and impediments.
-      - Work with Business Partners and IT stakeholders to prioritize backlogs, deliver solutions through environments and into production.
-      - Build a marketing automation platform to improve cost and volume efficiency while enabling our marketing team to run more complex, high-impact experiments.
-      - Ensure that all implementations of automated tools meet the requirements prescribed by IT Services through the effective implementation or use of approved processes, methodologies and deliverables.
-      - "Technologies: Salesforce (Process Builder, B2B Marketing Analytics, etc), Pardot (Pardot Implementation, Custom Pardot Development), MySQL Workbench, MS Reporting Services."
   - company: "Glovo"
     position: "Business Intelligence Consultant (Data Team) - Contract"
     website: "https://glovoapp.com/"
@@ -50,11 +42,6 @@ work:
     summary: >
       I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime). I worked in business intelligence by doing design and development of business reports for teams with the Looker technology. As a BI Analyst, I engage with a wide variety of stakeholders, from the CMO to software engineers, using data to inform company decisions and discover insights.
     highlights:
-      - Created queries and developed dashboards providing the needed insight for our operational marketing performance.
-      - Used statistical analysis to understand correlations, trends, and provided recommendations for changes based on these insights.
-      - Maintained internal and client LookML blocks.
-      - Developed and maintained SQL data models for a variety of business cases including web and mobile activity, attribution, and lifetime customer value in Redshift.
-      - "Technologies: Amazon Redshift (Structure/Tables, Sources, ETL), Amazon S3, Amazon Aurora (MySQL), Jenkins, APIs (Braze, mParticle, Google Maps, Adjust, Singular, etc), Looker (developer mode) JSON, CSV, Google Sheets, BI Scripts, DataGrip, Confluence, GitHub."
   - company: "Home Select"
     position: "Business Data Analyst"
     website: "https://www.homeselect.com/"
@@ -62,17 +49,6 @@ work:
     endDate: "2019-01-01"
     summary: >
       Led analytics for the marketing and operations team. I built the company's data & analytics infrastructure from the ground up and enabled Home Select employees to self serve data.
-    highlights:
-      - Wrote SQL queries, analyzed data, and generated reports to facilitate decision-making in the operations department. Supported owners answering complex business questions via Tableau/using ad-hoc SQL queries.
-      - Worked alongside our engineering team to improve and evolve our data infrastructure and supplement it with tools that would help teams across the business easily obtain the insights they need.
-      - Defined and executed Home Select product analytics strategy. Used data from multiple sources (Woopra, Amplitude, GA, Mixpanel, & other analytics tools) to identify emerging markets, forecast marketing/sales trends and highlight opportunities for new initiatives.
-      - Worked alongside business, operations and leadership teams to develop custom analysis and insights that would supplement strategic decisions.
-      - Supported our pricing and revenue management functions.
-      - Maintained internal and client Power BI blocks.
-      - Served as tactical liaison for sales, engineering, and operations to provide the most accurate and relevant information to help drive meaningful business decisions.
-      - Designed internal company dashboard and core metrics for success.
-      - Cared deeply about data quality and empowering employees to leverage data to help them succeed in their careers and help Home Select grow and succeed.
-      - "Tools utilized: PowerBI, Stitch, Google BigQuery, Amplitude, MySQL, SendGrid (transactional and marketing emails), Zapier."
   - company: "Cabify"
     position: "CRM Developer"
     website: "https://cabify.com/"
@@ -80,13 +56,6 @@ work:
     endDate: "2017-09-01"
     summary: >
       I worked on the Global Marketing Team at Cabify, focused on building highly personalized yet automated cross channel (email, mobile, web) customer journeys. Designed and architected CRM solutions.
-    highlights:
-      - Created multi-step cross channel lead generation & ongoing nurturing customer journeys.
-      - Identified opportunities to optimize existing campaigns as well developed reusable workflows templates, segments, filters, dynamic rules.
-      - Ensured the results were promptly available for multichannel campaigns across all markets.
-      - Built reports/dashboards in Spreadsheets to report on campaign performance and provide guidance for segment as well as content optimization.
-      - Supported local, regional and international CRM projects.
-      - Developed, tested, deployed and maintained automations, workflows and internal applications for Zendesk, a customer support system used by Cabify.
       - "Tools utilized: HTML, CSS, Braze, Customer Journeys, CRM-campaigns (Email, SMS, Mobile Push…)."
   - company: "Platzi"
     position: "Technical Product Marketing"
@@ -95,15 +64,6 @@ work:
     endDate: "2016-10-01"
     summary: >
       Over my time at Platzi (YC W15), I led a number of key outbound marketing efforts.
-    highlights:
-      - Monitored day-to-day results for all paid media programs, and made changes required to hit campaign targets.
-      - Owned the optimization and management of paid search program across Google, including structure & targeting improvements, search query mining, keyword expansion, landing page testing and improvement of bid management processes.
-      - Created reporting to explain campaign performance internally.
-      - Worked with marketing colleagues to design, write, and build new campaign assets such as ad creative and landing pages.
-      - Developed and executed PPC, display, remarketing and other paid media campaigns.
-      - Managed 3rd party agency resources/relationships.
-      - Positioned both existing and new courses to best match the needs and desires of prospective students.
-      - "Tools utilized: Segment, Woopra, Facebook Ads, Facebook Analytics, Google Analytics, Google Tag Manager, Google Ads, AdRoll."
   - company: "Mention"
     position: "Growth Intern"
     website: "https://mention.com/en/"
@@ -111,12 +71,6 @@ work:
     endDate: "2015-09-01"
     summary: >
       Summer intern on the Growth team. Intern for Guillaume Cabane (former VP of Growth at Segment & VP of Growth at Drift).
-    highlights:
-      - Managed the creation and execution of promotional and lifecycle email marketing to customers.
-      - Produced, reviewed, and scheduled all emails in Customer.io
-      - Analyzed email data (e.g., open rates, click-through rates, conversion) and developed insights/recommendations to share with internal stakeholders for ongoing optimization.
-      - Ensured accuracy, quality, and brand consistency in email communications.
-      - Worked on performance marketing, customer acquisition and engagement.
 volunteer:
   - organization: "PSE-Pour un Sourire d'Enfant"
     position: "Volunteer"
