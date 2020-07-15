@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'El juego del ahorcado'
-date: 15 Jul 2020
+date: 15 Jul 2019
 image: /assets/img/projects/ahorcado.jpg
 screenshot: /assets/img/projects/ahorcado.jpg
 links:
