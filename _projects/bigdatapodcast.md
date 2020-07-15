@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Big Data Podcast'
-date: 12 Apr 2018
+date: 14 Mar 2020
 image: /assets/img/projects/BigDataPodcast.jpg
 screenshot: /assets/img/projects/BigDataPodcast.jpg
 links:
