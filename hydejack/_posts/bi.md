@@ -1,0 +1,50 @@
+---
+layout: post
+title: Beneficios y retos al desplegar BI dentro de una empresa
+description: >
+  En este post reflexiono sobre los principales beneficios y retos que podría generar el despliegue de la inteligencia de negocio en una organización. <!--more-->
+---
+No ha habido un mejor momento para ser analista de BI (Business Intelligence) como ahora pero es bueno también volver no solo a los beneficios que puede aportar la inteligencia de negocio sino también a los retos que tiene desplegar este tipo de iniciativas dentro de una organización. 
+<!--more-->
+
+**Beneficios**
+
+- **Crear una cultura analítica en la que el dato y los hechos son relevantes para tomar decisiones sea cual sea el nivel de la organización**. Para muchas empresas, dentro del *BI Maturity Model*, diríamos que no existe un modelo de BI desplegado por completo, pero los datos son accesibles. Frecuentemente, este procesado de los datos se realiza mediante Excel o los informes en el CRM.
+
+- **Dejar de hacer un uso intensivo de Excel como herramienta de análisis y definir una fuente de verdad o un pilar que sea consistente entre equipos**. Una herramienta de BI proporciona una visión única, histórica, persistente y de calidad de toda la información relevante para la organización. El sistema no filtra bien con excel porque cada campo se puede rellenar como se quiera y esto no genera confianza. Por un tema cultural, la mayoría de usuarios prefieren excel debido a que saben usarlo y es fácil para diseño de informes, pero he comprobado por otras empresas de base tecnológica por las que he pasado (Platzi, Cabify, Glovo) que los usuarios adoptan rápidamente herramientas de BI con la documentación adecuada. El excel no es escalable para organizaciones que necesitan compartir los datos, discutirlos y analizarlos.
+
+- **Centralizar en un único punto la seguridad, el acceso a datos y la lógica de negocio, y permitir que los distintos usuarios aprovechen sus características**. Esto consiste en identificar qué procesos de negocio necesitan diferentes aplicaciones analíticas que trabajen de manera continua para asegurar que no existen silos de funcionalidad. Usar de manera desincronizada Google Data Studio, Power BI y reportes independientes del CRM produce caos operativo a largo plazo.
+
+- **Crear un centro de competencia (o de excelencia) de BI**. En muchas empresas están apareciendo procesos formales de toma de decisiones basadas en datos pero todavía no hay un solo equipo que controle los datos y permita hacer informes contra estos. Normalmente estos datos son extraídos directamente de los sistemas transaccionales sin *data cleaning*, ni modelización. La inteligencia de negocio podría ayudar a formalizarlo.
+
+- **La colaboración entre negocio, marketing e ingeniería**: La verdadera medida del éxito de la inteligencia de negocio es el uso del sistema por parte del usuario de negocio, entonces creo que aceptar la importancia de la colaboración debe ser fácil. Tener BI ayuda a concretar este enfoque de reforzar la alineación entre negocios, marketing e ingeniería. Algunas recomendaciones basadas en mi experiencia:
+  - Marcar prioridades basadas en objetivos y entregables realistas.
+  - Comunicar de manera transparente sobre la situación del proyecto y solicitar "feedback" para definir modificaciones en el alcance de manera consensuada.
+  - Ingeniería tiene que incidir en lo que hace el negocio y marketing y por qué, y en cómo la empresa espera tomar las decisiones en el futuro, en lugar de preguntar “¿qué quieres en un sistema BI y cómo lo quieres?”. 
+  - Involucrar a los representantes de la empresa para seleccionar sus herramientas. Creo que la tecnología es un habilitador previo, pero no debe ser el foco de atención primario del equipo de BI. Esto significa que habrá una fase de educar al negocio sobre infraestructura.
+  - Contratar a expertos en modelado dimensional del negocio es absolutamente necesario para diseñar modelos dimensionales apropiados. Deben estar incluidos en el descubrimiento de datos y en las decisiones asociadas al gobierno de los datos (si se contrata externos debemos de cuidar no dejar deuda técnica).
+  - Hacer un listado de profesionales expertos del lado de negocio para enlazar adecuadamente los problemas en la calidad de datos o el diseño del ETL con el CTO o VP de Ingeniería porque ingeniería no debe tomar estas decisiones en solitario.
+  - El diseño BI se crea y analiza con el negocio y en la fase de implementación se solicita aportación empresarial sobre las necesidades iniciales y continuas de educación y apoyo técnico.
+  
+**Retos**
+
+- **Desconocimiento de los usuarios sobre la plataforma y mala utilización que provoca duplicados**. Cuantos más usuarios en la herramienta, más probabilidad de arrastrar errores. Normalmente las medidas pasan por revocar permisos o limitarlos para poder asegurar un correcto funcionamiento de la herramienta.
+- **Limpieza de la base de datos y tener la capacidad de parametrizar el mundo físico al mundo digitalizado**. Evidentemente necesitamos la ayuda de IT porque se necesitan conocimientos de Backend y saber estructurar una base de datos (modelos, tipos de campos que hay, identificar flujos y estados, etc) pero marketing debe apoyar porque son los que tienen la lógica de negocio. Esto requiere parametrizar el modelo físico en el modelo computacional en base a la persistencia de datos: los datos cambian pero los usuarios finales (agentes comerciales) ven el último campo actualizado. Tenemos que poner a prueba lo que vamos haciendo para que no sea inabarcable al final.
+- **Cruzar datos de campañas de marketing con datos del CRM de manera ágil en la herramienta de BI** porque de lo contrario no se puede justificar el éxito de una campaña de marketing entre departamentos: A veces se da que las campañas de marketing son efectivas por intuición o conocimiento de las plataformas pero no por la información base usada.
+- **Soporte analítico y tecnológico**: tiene que ver con evangelizar la organización. Al mismo tiempo, formar estadísticamente pero también hacer control de usuarios para decidir quién hace qué y formar en generación de informes, que desde la parte administrativa siempre nos piden al principio pero no se puede generar un informe si no tenemos hecho todo lo demás.
+- **La parte operativa ralentiza la parte de evolución de la plataforma o producto**: Poner atención a las necesidades que requieren BI en la organización porque se suele satisfacer a los usuarios o departamentos que gritan más fuerte (y esto no significa que den mayor valor a la compañía!).
+
+**Ventajas Competitivas**
+
+- **Automatizar los procesos de extracción y distribución de información**. La inteligencia de negocio puede ayudar, por ejemplo, a automatizar el lead nurturing con el objetivo de mejorar la conversión y la retención de los prospectos y mejorar el tracking de fuentes de leads. 
+- **Implementación de una herramienta de visualización única para toda la organización**. Debemos plantearnos un escenario como si excel no existiera, para decidir qué herramienta de reporting deberíamos usar y cuáles son los verdaderos analistas de la herramienta porque no se van a comprar las mismas licencias que usuarios en modo vista. No queremos tampoco implementar una herramienta que solo se centre en generar paneles de información llamativos "abiertos al cliente" pero que no son nada fáciles de leer y trabajar en la práctica, generando limitaciones y dinamismos clusterizados. Una de los soluciones con las que he trabajado anteriormente en entornos BI y nos podría servir se llama QlikView y destaca por su sencillez de uso y por ser muy visual. Por lo general, las aplicaciones de QlikView devuelven unos tiempos de respuesta muy buenos porque emplean una "nube de datos" residente en memoria, no emplean un modelo relacional tradicional ni los clásicos cubos. Lo que llaman "Associative technology" es la tecnología que usa QlikView y es una base datos basada en columnas donde cada dato se almacena una única vez y esto hace que se obtenga un buen rendimiento para un volumen de datos moderado.
+- **Diseño de un Data warehouse**. El impacto negativo o inexacto contra los sistemas OLTP lleva a la conclusión de que un repositorio de datos es necesario para la organización.
+- **Mejorar el flujo de desarrollo de software para inteligencia de negocio**. Como empresa buscas reducir el coste de tiempo de desarrollo y puesta en producción y, al mismo tiempo, quieres garantizar que no hay errores de forma automática. En la medida que tengamos los recursos, destacaría tres puntos importantes donde podríamos generar ventaja competitiva para que se perciban novedades respecto a la competencia, para que se corrijan pronto los errores y no se introduzcan nuevos:
+
+  - Las tareas como historias de usuario: ayudan a contener al cliente (diferentes departamentos) porque va a tener que definir muy bien qué es lo que quiere tener/mejorar dentro del software y esto ayuda a que nos entendamos proveedor-cliente, además de que se concretiza la tarea y se puede desarrollar documentación, testing y estimación alrededor de ellas.
+  - Las ramas de Git asociadas a estas tareas: el código, gracias al control de versiones, forma parte de un registro y este registro tiene la capacidad de lanzar todo el proceso de integración continua o despliegue continuo después de que hagamos un commit (disparador).
+  - La capacidad de desplegar de forma automática: hay que poner fin a tener sistemas basados en FTP o subida de ficheros de forma manual. Cuanto más agilicemos la subida más seguros vamos a estar de que todo funcione aunque siempre debemos tener un entorno remoto de pruebas que no dependa de nuestro local pero sí tenga conexión con el entorno de producción. El paso a producción solo se debe de hacer si testing funciona.
+
+
+
+
