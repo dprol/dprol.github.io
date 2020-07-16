@@ -9,7 +9,7 @@ Me gusta la frase de Séneca "Si uno no sabe a que puerto se dirige cualquier vi
 
 <!--more-->
 
-Me gusta la frase de Séneca "Si uno no sabe a que puerto se dirige cualquier viento es un buen viento". Hay cuatro cosas por las que me levanto cada mañana y que me importan más en mi vida: mi trabajo (desarrollo profesional), mi familia, mis amigos (la gente que quiero) y la parte espiritual de la vida. Es importante conocerse a uno mismo y a los demás. Esto no quiere decir que haya buenos o malos. Si todos fuéramos iguales sería aburridísimo. Se podría decir que en mi caso concentro más la energía en el lado izquierdo de la cabeza, es decir, soy una persona que tiene que ver con lo lógico, lo analítico y lo secuencial. Necesito estar conmigo mismo en algunos momentos del día para captar esta energía. Al mismo tiempo, no me considero que sea introvertido porque cuando estoy con más personas me gusta dar buen ambiente e intento ver lo bueno que cada uno tiene, siendo consciente de que no todos piensan como yo. 
+Es importante conocerse a uno mismo y a los demás. Esto no quiere decir que haya buenos o malos. Si todos fuéramos iguales sería aburridísimo. Se podría decir que en mi caso concentro más la energía en el lado izquierdo de la cabeza, es decir, soy una persona que tiene que ver con lo lógico, lo analítico y lo secuencial. Necesito estar conmigo mismo en algunos momentos del día para captar esta energía. Al mismo tiempo, no me considero que sea introvertido porque cuando estoy con más personas me gusta dar buen ambiente e intento ver lo bueno que cada uno tiene, siendo consciente de que no todos piensan como yo. 
 
 **Trabajo**
 
