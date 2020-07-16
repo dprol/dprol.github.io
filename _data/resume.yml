@@ -101,6 +101,8 @@ skills:
       - "Apache Hadoop/Spark"
       - "APIs"
       - "R"
+      - "SQL"
+      - "Git"
   - name: "Databases"
     level: "Master"
     keywords:
@@ -112,8 +114,8 @@ skills:
     level: "Master"
     keywords:
       - "Segment"
-      - "Looker (development mode)"
-      - "Pardot (Salesforce)"
+      - "Looker"
+      - "Pardot Salesforce"
       - "Google Tag Manager"
 languages:
   - language: "Spanish"
@@ -122,6 +124,8 @@ languages:
     fluency: "Full professional proficiency"
 interests:
   - name: "Backpacking"
-  - name: "Data Structures"
+  - name: "Data/Computer Science"
+  - name: "Storytelling"
   - name: "Podcasts"
+  - name: "Music"
   - name: "Digital Products"
