@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Riesgos de la anonimización de datos
+image: /assets/img/blog/riesgos.jpg
 description: >
   Con la palabra anonimización se reconoce el dato disociado, como aquel que no permite la identificación de un afectado o interesado.
 excerpt_separator: <!--more-->
