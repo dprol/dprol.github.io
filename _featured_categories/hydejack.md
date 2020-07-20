@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Posts
-slug: hydejack
+slug: posts
 description: >
   All posts by year of publication.
   
