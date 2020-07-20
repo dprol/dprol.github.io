@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Posts
-slug: posts
+slug: articles
 description: >
   All posts by year of publication.
   
