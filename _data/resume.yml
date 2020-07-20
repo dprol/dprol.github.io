@@ -94,7 +94,7 @@ education:
     startDate: "2019-10-01"
     endDate: "2021-10-01"
 skills:
-  - name: "Programming"
+  - name: "Web Development/Programming Languages"
     level: "Master"
     keywords:
       - "HTML/CSS"
@@ -107,10 +107,10 @@ skills:
     level: "Master"
     keywords:
       - "MongoDB"
-      - "PostgreSQL"
+      - "Postgres"
       - "MySQL"
       - "SQL Server"
-  - name: "MarTech tooling"
+  - name: "Environment/Tools"
     level: "Master"
     keywords:
       - "Segment"
