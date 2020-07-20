@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Conócete a ti mismo
+image: /assets/img/blog/kite.jpg
 description: >
   Formaliza tu propósito y define tu camino personal hacia la Excelencia. <!--more-->
 ---
