@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Conócete a ti mismo
+title: Un propósito que merezca la pena
 image: /assets/img/blog/kite.jpg
 description: >
-  Formaliza tu propósito y define tu camino personal hacia la Excelencia. <!--more-->
+  Tener un sentido de misión me hace más feliz. ¿Qué hago en este mundo? ¿Por qué lo hago? ¿Por qué me levanto cada mañana? <!--more-->
 ---
 
 Me gusta la frase de Séneca "Si uno no sabe a que puerto se dirige cualquier viento es un buen viento". Hay cuatro cosas por las que me levanto cada mañana y que me importan más en mi vida: mi trabajo (desarrollo profesional), mi familia, mis amigos (la gente que quiero) y la parte espiritual de la vida. 
