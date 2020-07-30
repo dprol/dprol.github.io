@@ -95,25 +95,25 @@ education:
     endDate: "2021-10-01"
 skills:
   - name: "Web Development/Programming Languages"
-    level: "Master"
+    level: "Intermediate"
     keywords:
       - "HTML/CSS"
       - "Apache Hadoop/Spark"
       - "Cypher"
       - "R"
       - "SQL"
-  - name: "Databases"
+  - name: "BI solutions"
     level: "Master"
+    keywords:
+      - "Tableau"
+      - "Looker"
+  - name: "Databases"
+    level: "Intermediate"
     keywords:
       - "MongoDB"
       - "Postgres"
       - "MySQL"
       - "Neo4j"
-   - name: "BI solutions"
-   level: "Master"
-   keywords:
-      - "Tableau"
-      - "Looker"
   - name: "Environment/Tools"
     level: "Master"
     keywords:
