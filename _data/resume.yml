@@ -117,8 +117,8 @@ skills:
       - "Salesforce Pardot"
       - "Google Tag Manager"
  - name: "BI solutions"
-    level: "Master"
-    keywords:
+   level: "Master"
+   keywords:
       - "Tableau"
       - "Looker"
 languages:
