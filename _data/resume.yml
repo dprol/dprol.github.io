@@ -113,11 +113,14 @@ skills:
     level: "Master"
     keywords:
       - "Segment"
-      - "Looker"
       - "Git"
       - "Salesforce Pardot"
       - "Google Tag Manager"
-      - "Tableau Desktop"
+ - name: "BI solutions"
+    level: "Master"
+    keywords:
+      - "Tableau"
+      - "Looker"
 languages:
   - language: "Spanish"
     fluency: "Native speaker"
