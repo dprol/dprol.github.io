@@ -109,6 +109,11 @@ skills:
       - "Postgres"
       - "MySQL"
       - "Neo4j"
+   - name: "BI solutions"
+   level: "Master"
+   keywords:
+      - "Tableau"
+      - "Looker"
   - name: "Environment/Tools"
     level: "Master"
     keywords:
@@ -116,11 +121,6 @@ skills:
       - "Git"
       - "Salesforce Pardot"
       - "Google Tag Manager"
- - name: "BI solutions"
-   level: "Master"
-   keywords:
-      - "Tableau"
-      - "Looker"
 languages:
   - language: "Spanish"
     fluency: "Native speaker"
