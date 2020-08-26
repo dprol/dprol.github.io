@@ -10,7 +10,7 @@ Después de los días de verano es un buen momento para concretar esos propósit
 
 <!--more-->
 
-Vuelta a la rutina. Y eso después de haber disfrutado del verano siempre resulta duro. Atrás han quedado tan buenos ratos donde somos más conscientes que necesitamos a los demás para ser felices. Dándose a los demás, repartiendo felicidad, es cuando nos sentimos más felices.
+Vuelta a la rutina. Y eso después de haber disfrutado del verano siempre resulta duro. Atrás han quedado tan buenos ratos donde soy más consciente que necesito a los demás para ser feliz. Dándome a los demás, repartiendo felicidad, es cuando me siento más pleno.
 
 Lo bueno que tiene el comienzo del curso académico es que uno vuelve del verano con ganas para concretar los grandes objetivos y propósitos para el nuevo curso. Hoy quiero compartir contigo los 5 puntos más importantes para mí respecto a este inicio de curso.
 
