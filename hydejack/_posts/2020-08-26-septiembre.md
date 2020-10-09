@@ -20,7 +20,7 @@ Lo bueno que tiene el comienzo del curso académico es que uno vuelve del verano
 
 **Proyectos paralelos:** Principalmente me quiero enfocar en seguir creando contenido audiovisual de calidad en español con SaaS Product Chat, en el que disfruto mucho hablando de productos digitales con Claudio Cossio de Comalatech, y con Big Data Podcast en el que quiero seguir contando los problemas que resuelvo como profesional de datos y los aspectos técnicos que voy aprendiendo en el mercado de los datos. No descarto también contribuir con algún otro proyecto de código abierto que me resulte interesante y sea capaz de abarcarlo.
 
-**_Mentorship:_** Estaré colaborando con la Universidad Internacional de Cataluña (UIC) como Mentor de 8 alumnos del grado de bioingeniería. Colaboraré como mentor externo ofreciendo 3 horas de atención anual a cada alumno.
+**_Mentorship:_** Estaré colaborando con la Universidad Internacional de Cataluña (UIC) como Mentor de alumnos del grado de bioingeniería y Psicología. Colaboraré como mentor externo ofreciendo 3 horas de atención anual a cada alumno.
 
 **Aficiones:**  Mantener las salidas a la montaña de fin de semana, planes con amigos, lecturas (estoy leyendo _Una Educación_ de Tara Westover y deseando iniciar la lectura de _La escuela del mundo_ de Salman Khan, el creador de la Academia Khan) y deporte cada semana, en particular el pádel.
 
