@@ -30,6 +30,8 @@ Vota Dani Prol, Gana Monterols.
 
 10. <b>Club de Running y Workout</b>: Álex Sánchez, mi vocal nº 1, tiene como gran afición correr. Fruto de esta afición, ha creado el club de running llamado “Montelrun” para participar en las próximas carreras populares como la Pujada De Bagà Coll De Pal Bagà o Cursa Solidaria Ciutat de Barberà Barberà del Vallès.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7nM6xea9wBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Lo digo y lo reitero: yo soy candidato de TODO MONTEROLS. Y no voy a dejar que la demagogia se apropie de la palabra MONTEROLS. Con la fuerza de todos vosotros, con la dignidad de nuestro Colegio Mayor,  vamos a ganar. Que se oiga fuerte y claro: vamos a ganar esta contienda electoral.
 
 Un saludo afectuoso,
