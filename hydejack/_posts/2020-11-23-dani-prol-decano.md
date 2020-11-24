@@ -2,7 +2,7 @@
 title: Estas son mis propuestas como candidato a decano del Colegio Mayor Monterols
 image: /assets/img/blog/IMG_0186.jpg
 description: >
-  Los 10 puntos que presento como “credenciales” para disputar el decanato del Colegio Mayor Monterols. Al final está el vídeo de mi campaña electoral presentando la candidatura . <!--more-->
+  Los 10 puntos que presento como “credenciales” para disputar el decanato del Colegio Mayor Monterols. Al final están dos vídeos de mi campaña electoral presentando la candidatura . <!--more-->
 ---
 Vota Dani Prol, Gana Monterols.
 
@@ -30,7 +30,9 @@ Vota Dani Prol, Gana Monterols.
 
 10. <b>Club de Running y Workout</b>: Álex Sánchez, mi vocal nº 1, tiene como gran afición correr. Fruto de esta afición, ha creado el club de running llamado “Montelrun” para participar en las próximas carreras populares como la Pujada De Bagà Coll De Pal Bagà o Cursa Solidaria Ciutat de Barberà Barberà del Vallès.
 
-<iframe width="256" height="144" src="https://www.youtube.com/embed/7nM6xea9wBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="256" height="144" src="https://www.youtube.com/embed/7nM6xea9wBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+
+<iframe width="256" height="144" src="https://www.youtube.com/embed/4jE7R-_lQ04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Lo digo y lo reitero: yo soy candidato de TODO MONTEROLS. Y no voy a dejar que la demagogia se apropie de la palabra MONTEROLS. Con la fuerza de todos vosotros, con la dignidad de nuestro Colegio Mayor,  vamos a ganar. Que se oiga fuerte y claro: vamos a ganar esta contienda electoral.
 
