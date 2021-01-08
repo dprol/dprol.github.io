@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Vale la pena entrar a la carrera de ingeniería informática en 2020?
+title: ¿Vale la pena entrar a la carrera de ingeniería informática?
 image: /assets/img/blog/unir.jpg
 description: >
   Estudiar una carrera requiere un compromiso y una disciplina grande porque son mínimo 4 años de tu tiempo. En este post te cuento lo que busco aprender en esta carrera con especialización en Computer Science y por qué considero que es una buena opción entrar en 2020.  <!--more-->
