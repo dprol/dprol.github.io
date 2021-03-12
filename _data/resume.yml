@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Danny Prol"
-  label: "A technologist building tools for Higher Ed."
+  label: "A technologist building tools for Higher Ed." # Title: Building tools to help product teams make smarter, data-driven decisions
   picture: "/assets/icons/IMG_2993.jpg"
   email: "danielprolperez@gmail.com"
   summary: >
