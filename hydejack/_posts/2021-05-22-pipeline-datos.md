@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Análisis de herramientas para un pipeline de datos moderno
+title: Análisis de herramientas para pipelines de datos escalables
 image: /assets/img/blog/pipeline.jpg
 description: >
   Con este análisis de soluciones modernas de datos se pretenden cubrir todos los componentes de un pipeline de datos.  <!--more-->
