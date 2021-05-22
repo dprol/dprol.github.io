@@ -16,6 +16,12 @@ El stack moderno está centrado en los almacenes de datos basados en la nube. Lo
 
 First Header | Second Header
 ------------ | -------------
+------------ | -------------
+------------ | -------------
+------------ | -------------
+------------ | -------------
+------------ | -------------
+------------ | -------------
 [Recopilación y enrutamiento de los datos de los usuarios](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#recopilaci%C3%B3n-y-enrutamiento-de-los-datos-de-los-usuarios) | [Segment](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#segment), [RudderStack](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#rudderstack), [Snowplow](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#snowplow)
 [Almacén de datos](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#almac%C3%A9n-de-datos) | [Snowflake](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#snowflake), [Google BigQuery](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#google-bigquery), [Amazon Redshift](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#amazon-redshift)
 [Transformación](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#transformaci%C3%B3n) | [dbt](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#dbt), [Dataform](https://dprol.github.io/blog/hydejack/2021-05-22-pipeline-datos/#dataform)
