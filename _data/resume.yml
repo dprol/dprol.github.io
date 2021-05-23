@@ -98,7 +98,7 @@ skills:
     level: "Intermediate"
     keywords:
       - "HTML/CSS"
-      - "Apache Hadoop/Spark"
+      - "C"
       - "Cypher"
       - "R"
       - "SQL"
@@ -112,16 +112,16 @@ skills:
     level: "Intermediate"
     keywords:
       - "MongoDB"
-      - "Postgres"
-      - "MySQL"
+      - "PostgreSQL"
+      - "Redshift"
       - "Neo4j"
   - name: "Environment/Tools"
     level: "Master"
     keywords:
-      - "Segment"
+      - "AWS"
       - "Git"
-      - "Salesforce Pardot"
-      - "Google Tag Manager"
+      - "Salesforce"
+      - "Power Automate"
 languages:
   - language: "Spanish"
     fluency: "Native speaker"
