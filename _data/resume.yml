@@ -94,7 +94,7 @@ education:
     startDate: "2019-10-01"
     endDate: "2021-10-01"
 skills:
-  - name: "Web Development/Programming Languages"
+  - name: "Programming"
     level: "Intermediate"
     keywords:
       - "HTML/CSS"
@@ -108,13 +108,13 @@ skills:
       - "Tableau"
       - "Looker"
       - "Power BI"
-  - name: "Databases"
+  - name: "Databases/Warehouses"
     level: "Intermediate"
     keywords:
       - "MongoDB"
       - "PostgreSQL"
       - "Redshift"
-      - "Neo4j"
+      - "MySQL"
   - name: "Environment/Tools"
     level: "Master"
     keywords:
