@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'SaaS Product Chat'
-date: 12 Apr 2018 - 30 jun 2021
+date: 12 Apr 2018
 image: /assets/img/projects/saasproductchat.jpg
 screenshot: /assets/img/projects/saasproductchat.jpg
 links:
