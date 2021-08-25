@@ -33,14 +33,14 @@ work:
     startDate: "2019-06-04"
     endDate: ""
     summary: >
-      Tech Lead for IESE's Automation Team. Key role in building IESE's Marketing Automation Platform. Helping make IESE Marketing & Sales more efficient with their time and money.
+      Responsible for technical support of sales & marketing business solutions, providing technical training of sales and marketing people, and new product solutions. Key role in building IESE's Marketing Automation Platform.
   - company: "Glovo"
     position: "Business Intelligence Developer"
     website: "https://glovoapp.com/"
     startDate: "2019-01-01"
     endDate: "2019-06-01"
     summary: >
-      I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime). I worked in business intelligence by doing design and development of business reports for teams with the Looker technology. As a BI Analyst, I engage with a wide variety of stakeholders, from the CMO to software engineers, using data to inform company decisions and discover insights.
+      I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime).
     highlights:
   - company: "Home Select"
     position: "Data Analyst"
@@ -62,24 +62,24 @@ work:
     startDate: "2015-09-01"
     endDate: "2016-10-01"
     summary: >
-      Over my time at Platzi (YC W15), I led a number of key outbound marketing efforts.
+      YC-backed company.
   - company: "Mention"
     position: "Growth Intern"
     website: "https://mention.com/en/"
     startDate: "2015-06-01"
     endDate: "2015-09-01"
     summary: >
-      Summer intern on the Growth team. Intern for Guillaume Cabane (former VP of Growth at Segment & VP of Growth at Drift).
+      Summer intern on the Growth team.
 volunteer:
   - organization: "PSE-Pour un Sourire d'Enfant"
     position: "Volunteer"
     website: "https://www.pse.ong/"
     startDate: "2014-06-01"
     endDate: "2014-09-01"
-    summary: "I worked as a fulltime volunteer for PSE in Cambodia. Helped the people there to get out of poverty. We taught values to the young people in Cambodia. Teaching English at PSE in rural areas in Cambodia."
+    summary: "This was my first "professional" experience. I worked as a full-time volunteer for PSE in Cambodia. Helped the people there to get out of poverty. We taught values to the young people in Cambodia. Teaching English at PSE in rural areas in Cambodia."
 education:
   - institution: "University of Navarra"
-    area: "Communications"
+    area: "Journalism"
     studyType: "Bachelor"
     startDate: "2012-09-01"
     endDate: "2016-06-01"
