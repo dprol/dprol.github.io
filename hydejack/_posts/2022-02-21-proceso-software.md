@@ -12,14 +12,14 @@ _Ingeniería del Software: un enfoque práctico_ de Roger S. Pressman es un "mus
 
 | Principio |
 | ------------ |
-| [La agilidad]() |
-| [La orientación a la calidad]() |
-| [La adaptación]() |
-| [La eficacia del equipo]() | 
-| [La comunicación y coordinación]() | 
-| [La gestión del cambio]() | 
-| [La evaluación del riesgo]() |
-| [La generación de productos con valor]() |
+| [La agilidad](https://dprol.github.io/blog/hydejack/2022-02-21-procesos-software/#la-agilidad) |
+| [La orientación a la calidad](https://dprol.github.io/blog/hydejack/2022-02-21-procesos-software/#la-orientaci%C3%B3n-a-la-calidad) |
+| [La adaptación](https://dprol.github.io/blog/hydejack/2022-02-21-procesos-software/#la-adaptaci%C3%B3n) |
+| [La eficacia del equipo](https://dprol.github.io/blog/hydejack/2022-02-21-procesos-software/#la-eficacia-del-equipo) | 
+| [La comunicación y coordinación](https://dprol.github.io/blog/hydejack/2022-02-21-procesos-software/#la-comunicaci%C3%B3n-y-coordinaci%C3%B3n) | 
+| [La gestión del cambio](https://dprol.github.io/blog/hydejack/2022-02-21-procesos-software/#la-gesti%C3%B3n-del-cambio) | 
+| [La evaluación del riesgo](https://dprol.github.io/blog/hydejack/2022-02-21-procesos-software/#la-evaluaci%C3%B3n-del-riesgo) |
+| [La generación de productos con valor](https://dprol.github.io/blog/hydejack/2022-02-21-procesos-software/#la-generaci%C3%B3n-de-productos-con-valor) |
 
 # La agilidad #
 
