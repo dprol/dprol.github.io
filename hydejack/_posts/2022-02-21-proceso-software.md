@@ -10,7 +10,7 @@ Un proceso de software proporciona el marco conceptual desde el cual puede estab
 <!--more-->
 
 
-| Principio |
+| Principios |
 | ------------ |
 | [La agilidad](#la-agilidad) |
 | [La orientación a la calidad](#la-orientaci%C3%B3n-a-la-calidad) |
