@@ -6,7 +6,7 @@ description: >
   La práctica de la Ingeniería de Software está guiada por un conjunto de principios fundamentales que ayudan en la aplicación del proceso de software.  <!--more-->
 ---
 
-_Ingeniería del Software: un enfoque práctico_ de Roger S. Pressman es un "must" para cualquier persona en la industria informática. En mi resumen de sus 8 principios fundamentales del proceso de software interpreto lo que más me ha llamado la atención. Se trata de un resumen totalmente personal y que enfoco desde un punto de vista de mi trabajo. Estos principios se aplican a la estructura y, por extensión, a todo proceso de software.
+Un proceso de software proporciona el marco conceptual desde el cual puede establecerse un plan completo para el desarrollo de software. _Ingeniería del Software: un enfoque práctico_ de Roger S. Pressman es un "must" para cualquier persona en la industria informática. En mi resumen de sus 8 principios fundamentales del proceso de software interpreto lo que más me ha llamado la atención. Se trata de un resumen totalmente personal y que enfoco desde un punto de vista de mi trabajo. Estos principios se aplican a la estructura y, por extensión, a todo proceso de software.
 <!--more-->
 
 
@@ -52,3 +52,5 @@ Son muchas las cosas que pueden salir mal cuando se desarrolla un proyecto de so
 # La generación de productos con valor #
 
 Solo hay que generar productos que generen valor para otras actividades, acciones o tareas del proceso. Hay que ser conscientes de que todo producto que se desarrolle pasará a las manos de alguien más. Por esto último, hay que asegurarse de que el producto presenta la información necesaria sin ambigüedades u omisiones.
+
+La parte 4 del libro de Roger S. Pressman se centra en aspectos de la administración del proyecto y del proceso, y analiza en detalle varios aspectos de cada uno de dichos principios.
