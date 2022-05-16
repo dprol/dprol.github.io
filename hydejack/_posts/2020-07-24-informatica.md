@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Por qué estudiar ingeniería informática a distancia
+title: Por qué decidí estudiar ingeniería informática en UNIR
 image: /assets/img/blog/unir.jpg
 description: >
   Estudiar una carrera requiere un compromiso y una disciplina grande porque son mínimo 4 años de tu tiempo. En este post te cuento por qué estudiar esta carrera con especialización en Ingeniería del Software y por qué considero que es una buena opción entrar en una universidad online como UNIR.  <!--more-->
