@@ -2,7 +2,7 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Danny Prol"
+  name: "Daniel Prol"
   label: "A technologist building tools for Higher Ed." # Title: Building tools to help product teams make smarter, data-driven decisions
   picture: "/assets/icons/IMG_2993.jpg"
   email: "danielprolperez@gmail.com"
@@ -28,14 +28,14 @@ basics:
       
 work:
   - company: "IESE Business School"
-    position: "Solutions Engineer, Higher Education"
+    position: "Solutions Engineer"
     website: "https://www.iese.edu/"
     startDate: "2019-06-04"
     endDate: ""
     summary: >
       Responsible for technical support of sales & marketing business solutions, providing technical training of sales and marketing people, and new product solutions. Key role in building IESE's Marketing Automation Platform.
   - company: "Glovo"
-    position: "Business Intelligence Developer"
+    position: "Looker Developer - Data Team"
     website: "https://glovoapp.com/"
     startDate: "2019-01-01"
     endDate: "2019-06-01"
@@ -43,7 +43,7 @@ work:
       I worked for 6 months on some special projects to understand and help with marketing mix investment optimization, retention, and growth optimization (MGM & Prime).
     highlights:
   - company: "Home Select"
-    position: "Business Data Analyst"
+    position: "Data Analyst"
     website: "https://www.homeselect.com/"
     startDate: "2017-09-01"
     endDate: "2019-01-01"
