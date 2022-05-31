@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Danny Prol
+  name:              Daniel Prol
   email:             danielprolperez@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -59,7 +59,7 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              Danny Prol
+  name:              Daniel Prol
   email:             danielprolperez@gmail.com
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
