@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Design of Everyday Things Summary
 image: /assets/img/blog/design-book.jpg
 description: >
