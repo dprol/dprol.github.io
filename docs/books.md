@@ -1,5 +1,5 @@
 ---
-title: Favorite Books
+title: The books I loved
 description: >
   Favorite Books (In no particular order)
 hide_description: true
