@@ -9,6 +9,10 @@ permalink: /books/
 
 * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/). By Martin Kleppmann
   
+* [Introduction to Algorithms](https://www.amazon.es/Introduction-Algorithms-Press-Thomas-Cormen/dp/0262033844). By Cormen, Leiserson, Rivest, and Stein
+  
+* [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850). By Gayle Laakmann McDowell
+  
 * [El Hombre en busca de Sentido](https://www.amazon.es/El-hombre-en-busca-sentido/dp/8425432022). By Viktor Emil Frankl
 
 * [Migrante](https://www.amazon.es/MIGRANTE-guatemalteco-emprendedor-tecnol%C3%B3gico-testimonio/dp/1096708566). By Marcos Antil
