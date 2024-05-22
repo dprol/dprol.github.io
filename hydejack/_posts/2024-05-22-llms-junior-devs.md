@@ -17,26 +17,26 @@ These AI systems can automate tasks such as writing code, generating tests, and 
 
 <b>LLMs:</b>
 
-- Increased productivity: LLMs can handle mundane and repetitive tasks, allowing human developers to concentrate on complex problem-solving and innovation.
+- <i>Increased productivity:</i> LLMs can handle mundane and repetitive tasks, allowing human developers to concentrate on complex problem-solving and innovation.
 
-- Faster learning curve: Junior developers can learn faster by leveraging LLMs as interactive learning tools, generating code snippets, and observing patterns.
+- <i>Faster learning curve:</i> Junior developers can learn faster by leveraging LLMs as interactive learning tools, generating code snippets, and observing patterns.
 
-- Rapid prototyping: LLMs can quickly translate requirements into technical terms or visual prototypes, accelerating the development process.
+- <i>Rapid prototyping:</i> LLMs can quickly translate requirements into technical terms or visual prototypes, accelerating the development process.
 
 <b>Concerns/Challenges:</b>
 
-- Loss of contextual understanding: As LLMs take over more tasks, there's a risk of developers losing sight of the broader context, meta-problems, and the limitations of the tools they're using.
+- <i>Loss of contextual understanding:</i> As LLMs take over more tasks, there's a risk of developers losing sight of the broader context, meta-problems, and the limitations of the tools they're using.
 
-- Opacity and lack of interpretability: If something goes wrong with the generated code, it may be challenging to understand and fix, as no one truly understands how the LLM arrived at that solution.
+- <i>Opacity and lack of interpretability:</i> If something goes wrong with the generated code, it may be challenging to understand and fix, as no one truly understands how the LLM arrived at that solution.
 
-- Quality and maintainability: While LLMs can generate code, there are concerns about its elegance, readability, and potential for creating "spaghetti code" that's difficult to maintain.
+- <i>Quality and maintainability:</i> While LLMs can generate code, there are concerns about its elegance, readability, and potential for creating "spaghetti code" that's difficult to maintain.
 
 <b>The way forward:</b>
 
-- Responsible use and restraint: Developers must exercise restraint and not blindly accept every LLM-generated suggestion. A balance must be struck between automation and human oversight.
+- <i>Responsible use and restraint:</i> Developers must exercise restraint and not blindly accept every LLM-generated suggestion. A balance must be struck between automation and human oversight.
 
-- Emphasis on testing: Rigorous testing frameworks and practices should be adopted to ensure the quality and reliability of LLM-generated code.
+- <i>Emphasis on testing:</i> Rigorous testing frameworks and practices should be adopted to ensure the quality and reliability of LLM-generated code.
 
-- Nurturing human expertise: While LLMs can automate many tasks, human developers must retain their problem-solving skills, contextual understanding, and the ability to debug and maintain complex systems.
+- <i>Nurturing human expertise:</i> While LLMs can automate many tasks, human developers must retain their problem-solving skills, contextual understanding, and the ability to debug and maintain complex systems.
 
-- Training the next generation of programmers: Educational initiatives should focus on teaching responsible use of LLMs, fostering critical thinking, and cultivating a respect for the technology's limitations.
+- <i>Training the next generation of programmers:</i> Educational initiatives should focus on teaching responsible use of LLMs, fostering critical thinking, and cultivating a respect for the technology's limitations.
