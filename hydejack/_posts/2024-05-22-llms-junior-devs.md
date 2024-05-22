@@ -7,7 +7,7 @@ description: >
 
 Are you curious about the future of software development and how LLMs could reshape the way we train junior developers?
 
-The InfoQ podcast has an <a href="https://www.infoq.com/podcasts/llms-programming-tasks-training-developers/">insightful conversation</a> with Anthony Alford, Senior Director of Development at Genesys Cloud Services, and Roland Meertens, an ML engineer building self-driving cars at Wayve, that you won't want to miss. Here's my summary of the episode.
+The InfoQ podcast has an <a href="https://www.infoq.com/podcasts/llms-programming-tasks-training-developers/">insightful conversation</a> with Anthony Alford, Senior Director of Development at Genesys, and Roland Meertens, an ML engineer building self-driving cars at Wayve, that you won't want to miss. Here's my summary of the episode.
 
 <!--more-->
 
