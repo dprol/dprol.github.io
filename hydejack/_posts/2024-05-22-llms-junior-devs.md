@@ -2,8 +2,7 @@
 title: The Future of Software Development and the Role of Computing Education with LLMs
 image: /assets/img/blog/iStock-1468187710.jpg
 description: >
-Pic from iStock
-   <!--more-->
+  Pic from iStock <!--more-->
 ---
 
 Are you curious about the future of software development and how LLMs could reshape the way we train junior developers?
