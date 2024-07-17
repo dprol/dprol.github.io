@@ -1,84 +1,121 @@
 ---
 layout: post
-title: Ingeniería informática de la UNIR año por año - Mi experiencia
+title: Ingeniería Informática de la UNIR año por año - Mi experiencia
 image: /assets/img/blog/asignaturas-unir.png
 comments: true
 description: >
-  Echa un vistazo a todas las asignaturas del grado online de ingeniería informática de la UNIR con el fin de que sea más fácil elegir esta carrera o descartarla. Para ello analizo lo más importante de cada asignatura y lo que vas a estar haciendo si entras en la carrera. <!--more-->
+  Echa un vistazo a todas las asignaturas del grado en Ingeniería Informática de la UNIR con el fin de que sea más fácil elegir esta carrera o descartarla. Para ello analizo lo más importante de cada asignatura y lo que vas a estar haciendo si entras en la carrera. <!--more-->
 ---
 
-¿Estás pensando en empezar el grado de Ingeniería Informática de la UNIR y tienes dudas? En este post explico que di en cada una de las 37 asignaturas de la carrera y 6 actividades de extensión cultural de una forma concreta.
+¿Estás pensando en empezar el grado de Ingeniería Informática en la UNIR y tienes dudas? En este post explico que di en cada una de las 37 asignaturas de la carrera y 6 actividades de extensión cultural de una forma concreta.
 <!--more-->
 
 # Primer año
 
-- **Álgebra y Matemática Discreta**: Es lo que te puedes esperar si entras en una carrera de ingeniería. No te voy a mentir, es difícil. De hecho, la suspendí en la primera convocatoria, pero se aprueba dedicándole muchas horas. Se divide en matemáticas discretas y álgebra lineal. En concreto, se aborda: métodos de prueba, inducción y recursión, conjuntos y funciones, teoría de números y aritmética modular, aplicaciones de la aritmética modular, operaciones con matrices, relaciones, eliminación gaussiana, programación lineal, algoritmo simplex, grafos y árboles. Mi profesor fue Federico Vicente Cristóbal. Iba bastante al grano, dando muchas cosas por hecho, pero explicaba con buenos ejemplos temas complejos que ayudaban a entenderlos. Reconozco que algunos temas también los aprendí o complementé viendo vídeos de YouTube, que en mi opinión eran mucho más claros que algunas clases. Sin embargo, en términos generales, aprendí bastante y fue un buen repaso de lo visto en el instituto. El examen combinó preguntas tipo test (4 puntos) con preguntas de desarrollo (6 puntos) sobre conjuntos, sistemas de ecuaciones lineales, el teorema chino del resto, y búsqueda de máximos y mínimos.
+- **Álgebra y Matemática Discreta**: Es lo que te puedes esperar de una carrera de ingeniería. No te voy a mentir, es difícil. De hecho, la suspendí en la primera convocatoria, pero se aprueba dedicándole muchas horas. La carrera se divide en matemáticas discretas y álgebra lineal. En concreto, se abordan los siguientes temas: métodos de prueba, inducción y recursión, conjuntos y funciones, teoría de números y aritmética modular, aplicaciones de la aritmética modular, operaciones con matrices, relaciones, eliminación gaussiana, programación lineal, algoritmo simplex, grafos y árboles. Mi profesor fue Federico Vicente Cristóbal. Iba bastante al grano, daba muchas cosas por hecho, pero explicaba temas complejos con buenos ejemplos que ayudaban a entenderlos. Reconozco que algunos temas también los aprendí o complementé viendo vídeos de YouTube, que en mi opinión eran mucho más claros que algunas clases. Sin embargo, en términos generales, aprendí bastante y fue un buen repaso de lo visto en el instituto. El examen combinó preguntas tipo test (4 puntos) con preguntas de desarrollo (6 puntos) sobre conjuntos, sistemas de ecuaciones lineales, el teorema chino del resto y búsqueda de máximos y mínimos.
   
-- **Tecnología de Computadores**: Supongo que dependerá del profesor porque tiene mucho temario y es extensa, pero nuestro profesor, Sergio Márquez Sánchez, no tenía mucha experiencia enseñando. Sin embargo, insistió mucho en hacer ejercicios prácticos, sobre todo de memorias (caché, externa), operaciones aritméticas, tablas de la verdad, formas canónicas, simplificación de la función utilizando Karnaugh y dibujo del circuito con puertas lógicas. En esta asignatura también se aprende a programar en ensamblador. Es muy importante asentar bien los conceptos de esta asignatura para poder afrontar la siguiente del segundo año, que es estructura de computadores, donde el nivel de dificultad es mayor. El profesor habilitó unos hilos de foros para resolver problemas que, junto con las clases de repaso, fueron claves para aprobar. Este profesor es experto en IoT y en la parte de Arduino, por lo que nos enseñó las bases de Arduino. También utilizamos Tinkercad para hacer proyectos interesantes, como un ascensor o el juego de simón dice. Me lo pasé bien, aunque el hardware no me apasiona.
+- **Tecnología de Computadores**: Supongo que dependerá del profesor, porque el temario es extenso y tiene muchos temas. Sin embargo, nuestro profesor, Sergio Márquez Sánchez, no tenía mucha experiencia enseñando. Sin embargo, insistió mucho en la realización de ejercicios prácticos, sobre todo de memorias (caché, externa), operaciones aritméticas, tablas de la verdad, formas canónicas, simplificación de la función utilizando Karnaugh y dibujo del circuito con puertas lógicas. En esta asignatura también se aprende a programar en ensamblador. Es muy importante asentar bien los conceptos de esta asignatura para poder afrontar la siguiente del segundo año, que es «Estructura de computadores», donde el nivel de dificultad es mayor. El profesor habilitó unos hilos de foros para resolver problemas que, junto con las clases de repaso, fueron claves para aprobar. Este profesor es experto en IoT y en la parte de Arduino, por lo que nos enseñó las bases de Arduino. También utilizamos Tinkercad para hacer proyectos interesantes, como un ascensor o el juego de «Simón dice». Me lo pasé bien, aunque el hardware no me apasiona.
   
-- **Fundamentos Físicos de la Informática**: Nos la dio un telecos, Carlos Quemada Mayoral, y a pesar de no gustarme nada la física, me encantaron sus clases porque explicaba cada tema de forma excelente y amena. Nos facilitó mucho el examen porque al final de cada tema nos ponía ejercicios que luego aparecían tal cual en el examen, solo con valores diferentes. Está muy basada en temas vistos en el instituto: física del movimiento, electromagnetismo, circuitos eléctricos, electrostática... Las prácticas de esta asignatura no estaban muy bien orientadas porque no tenían mucha relación con el temario y no entraban luego en el examen.
+- **Fundamentos Físicos de la Informática**: Nos la dio un teleco, Carlos Quemada Mayoral, y, a pesar de que no me gustaba nada la física, me encantaban sus clases porque explicaba cada tema de forma excelente y me hizo cogerle gustillo al mundo de la física. Nos facilitó mucho el examen, porque al final de cada tema nos ponía ejercicios que luego aparecían tal cual en el examen, solo con valores diferentes. La asignatura estaba muy basada en temas que habíamos visto en el instituto: física del movimiento, electromagnetismo, circuitos... Las prácticas de esta asignatura no estaban muy bien orientadas porque no tenían mucha relación con el temario y no entraban luego en el examen.
   
-- **Fundamentos de programación**: Esta es un clásico de la carrera. Pretende que aprendamos a programar desde lo más básico. Se hacen programas sencillos en C como Fibonacci, matrices, menús o diccionarios. Se escribe mucho código en las actividades y se aprenden diagramas de flujo. Lo que se ve en el temario incluye diseño de algoritmos, elementos de C, sentencias de control, funciones, estructuras de datos estáticas, punteros, ficheros, recursividad, pruebas y documentación. El profesor fue Juan Ramón Bermejo Higuera, quien, para mi gusto, se centraba mucho en la teoría. Quizás eché de menos más programación en clase, aunque sí que hizo clases de repaso que ayudaron a asentar los conceptos para otras asignaturas del grado, como programación avanzada o estructura de datos. El examen era tipo test y dos problemas de código en C. Lo que más he aprendido de esta asignatura es a diseñar diagramas de flujo y a implementar un programa en C. También eché de menos más flexibilidad para elegir el IDE de trabajo, ya que nos forzaron a utilizar Dev-C++, que es bastante antiguo.
+- **Fundamentos de programación**: Esta es un clásico de la carrera. Intenta que aprendamos a programar desde lo más básico. Se hacen programas sencillos en C, como Fibonacci, matrices, menús o diccionarios. Se escribe mucho código en las actividades y se aprenden diagramas de flujo. En el temario se ven temas como el diseño de algoritmos, elementos de C, sentencias de control, funciones, estructuras de datos estáticas, punteros, ficheros, recursividad, pruebas y documentación. El profesor fue Juan Ramón Bermejo Higuera, quien, en mi opinión, se centraba mucho en la teoría. Quizás eché de menos más programación en clase, aunque sí que hubo clases de repaso que ayudaron a asentar los conceptos para otras asignaturas del grado, como programación avanzada o estructura de datos. El examen era tipo test y constaba de dos problemas de código en C.
+Lo que más he aprendido de esta asignatura es a diseñar diagramas de flujo y a implementar un programa en C.
+También eché de menos más flexibilidad para elegir el entorno de desarrollo integrado (IDE), ya que nos obligaron a utilizar Dev-C++, que es bastante antiguo.
   
-- **Fundamentos de la Empresa**: Sin dedicarle mucho esfuerzo se puede sacar una buena nota fácilmente. Lo más destacado es la elaboración de un análisis DAFO para una empresa en concreto y los balances en la parte práctica. En la teoría, el test cubre conceptos de empresa como tipos de organizaciones, proyectos, estructuras organizativas, estrategias, modelos, elasticidad y punto de equilibrio. El profesor fue Jesús Perán López. Nada que decir, simplemente se limitaba a impartir la asignatura, que no da para más. 
+- **Fundamentos de la Empresa**: Sin dedicarle mucho esfuerzo, se puede sacar una buena nota fácilmente. Lo más destacado es la elaboración de un análisis DAFO para una empresa en concreto y los balances en la parte práctica. En la parte teórica, el test cubre conceptos de empresa, como tipos de organizaciones, proyectos, estructuras organizativas, estrategias, modelos, elasticidad y punto de equilibrio. El profesor fue Jesús Perán López. No hay nada que decir, simplemente se limitaba a impartir la asignatura, que no da para más.
   
-- **Interacción persona-ordenador**: xxx.
-- **Lógica Computacional**: xxx.
-- **Cálculo y Métodos Numéricos**: xxx.
-- **Algoritmia y Complejidad**: xxx.
-- **Sistemas Operativos**: xxx. 
+- **Interacción persona-ordenador**: Es de esas asignaturas en las que también se puede sacar buena nota con un poco de esfuerzo. Aprenderás sobre usabilidad, accesibilidad, los factores que intervienen en el desarrollo de productos de software interactivos y las distintas fases del proceso de desarrollo de un sistema interactivo. Se enseñan técnicas que facilitan la captura de requisitos, el desarrollo de prototipos y su evaluación. En las actividades, aprendimos sobre estilos y paradigmas de interacción, prototipado a partir de la definición de personas y escenarios, y evaluación heurística de un sitio web utilizando los principios heurísticos de Nielsen. El examen consiste en un test y un caso práctico que vale 7 puntos. En mi caso, tuve que determinar qué estilos de interacción y qué paradigma se utilizaban en unas aplicaciones, y definir personajes primarios y secundarios, así como escenarios. Básicamente, se trata de aplicar lo visto en la teoría y en las prácticas. El profesor fue Luis Rodríguez Baena, una gran persona y un gran profesional, que hace que las clases sean muy amenas.
+  
+- **Lógica Computacional**: Me la dio Susana Quirós, que es muy maja (aunque a veces un poco caótica) y con la que se aprende mucho. Entré sin tener conocimientos formales de lógica ni de su aplicación, y acabé adquiriendo un conocimiento que aún hoy me sirve en algunas partes de mi trabajo. En concreto, vimos lógica en todas sus formas (de enunciados, de predicados) y su aplicación en relación con la teoría de circuitos y la programación lógica. Lo de las deducciones nunca lo entenderé, soy un negado para ello. El examen fue bien porque esta asignatura tiene mucha parte práctica que se trabaja intensamente en clase. Había preguntas breves y otras de desarrollo. Tenías que traducir del lenguaje algebraico al lenguaje natural, escribir fórmulas lógicas dado un circuito y viceversa, determinar el valor semántico dado un enunciado lógico, responder preguntas teóricas de Prolog, formalizar una sentencia, realizar deducciones, elaborar una tabla semántica a partir de una fórmula y demostrar la invalidez de una deducción.
+  
+- **Cálculo y Métodos Numéricos**: Si hiciéramos una encuesta en mi clase, creo que Íñigo Sarría, el profesor de Cálculo y Métodos Numéricos, sería considerado uno de los mejores profesores del grado. Sin embargo, también es exigente y enseña una asignatura de naturaleza compleja, muy compleja según el examen. La asignatura se divide en dos bloques. En cálculo, se ve análisis matemático de funciones y en métodos, la resolución de ecuaciones mediante métodos iterativos. Muchas derivadas, demasiadas, y también muchas integrales... La dificultad del examen es variable, aunque generalmente alta: casi siempre cae derivabilidad, optimización, integral indefinida, análisis de la convergencia o divergencia de dos series infinitas, y raíces de funciones, además de explicar Newton-Raphson. Aprobé por los pelos, pero hay que pasar por esta asignatura igual que en álgebra, al ser una ingeniería.
+  
+- **Algoritmia y Complejidad**: Algoritmia no fue mi mejor nota del grado, pero fue una de las asignaturas que más disfruté. Por varios motivos: había leído anteriormente muchos artículos que hablaban de algoritmos de x, y, z, pero en esta asignatura por fin pude comprender cómo saber qué algoritmos son más eficientes en términos de rendimiento, cómo diseñarlos, qué estructura de datos es más acertada en cada caso y cómo crece la complejidad si crece su entrada. Estas cuestiones son interesantísimas para un informático. Además de la eficiencia, vimos en detalle los algoritmos de ordenación, árboles (ordenados y balanceados), heaps, grafos, greedy, búsqueda de caminos y backtracking. La profesora Belén Bermejo me pareció maja y siempre estuvo muy atenta en clase y en el foro, para resolver nuestras dudas. El examen no sorprende, sale lo que dice ella en la sesión de examen y durante toda la asignatura. Insiste en el backtracking, en el orden de complejidad en función de n, en explicar los diferentes algoritmos vistos, en construir el árbol binario a partir de una expresión matemática y en recorrer el árbol obtenido en preorden, inorden y postorden, en encontrar la ruta más corta mediante Dijkstra y en mostrar el árbol de expansión mínima de coste utilizando Prim.
+  
+- **Sistemas Operativos**: El foco de esta asignatura estuvo en calcular procesos teniendo en cuenta diferentes criterios y tiempos de espera, usando algoritmos como SRTF. También abordamos la teoría básica de los sistemas operativos, el algoritmo del banquero para completar la secuencia de ejecución y determinar qué procesos finalizan y cuáles no, además de ejercicios de memoria y paginación. La profesora Laura Mancera, un poco pasota, pero puso en el examen lo que dijo en clase.
 
 # Segundo año
 
-- **Estadística**: xxx.
-- **Estructura de datos** xxx.
-- **Deontología y Legislación Informática**: xxx.
-- **Ingeniería del software**: xxx.
-- **Comunicación y Liderazgo**: xxx.
-- **Sistemas operativos avanzados**: xxx.
-- **Programación avanzada**: xxx.
-- **Redes de ordenadores**: xxx.
-- **Estructura de Computadores**: xxx.
-- **Inteligencia artificial e ingeniería del conocimiento**: xxx. 
-- **Bases de datos**: xxx.
+- **Estadística**: En esta asignatura programarás un poco en R. La correctora de las actividades y del examen fue Susana Quirós, de lógica. Es muy útil para resolver problemas, estimar y hacer pruebas de hipótesis ante problemas concretos. Se abarca desde la probabilidad y las variables aleatorias hasta las distribuciones y la inferencia. Me pasó un poco como en física. La profesora Antonella Gieco me pareció una fuera de serie y logró que le cogiera el gustillo a la estadística.
+  
+- **Estructura de datos**: Junto con algoritmia, esta asignatura con Marina de la Cruz me pareció interesantísima por los temas que se tratan. Es muy útil y Marina es otra fuera de serie. Se implementan diferentes tipos de estructuras de datos desde cero. Primero se da una introducción a Java, el lenguaje de esta asignatura, y luego se pasa a tratar árboles (binarios de búsqueda, AVL, etc.), tablas hash, grafos y listas de adyacencia, Dijkstra (de nuevo) y, la parte difícil, implementar TAD multiconjunto utilizando estructuras de datos, en mi caso, un array. No sorprende porque Marina siempre lo hace primero en clase, luego lo explica en detalle y, por último, deja el código del IDE para usarlo en el examen.
+  
+- **Deontología y Legislación Informática**: No es por el profesor Gonzalo Martínez, pero esta asignatura fue una de las más pesadas de la carrera. En ella se trataban temas como la protección de datos, los servicios de la SI y el e-commerce, la firma y el documento electrónico, la contratación informática y los delitos informáticos. El examen era tipo test y, con estudiar un poco, sacas una muy buena nota.
+  
+- **Ingeniería del software**: Creo que al profesor José Carlos Morales le faltaba experiencia o no supo transmitir la belleza de esta asignatura, que es la base para la que imparte Pedraza, ISA. El ejercicio del examen consistió en desarrollar un diagrama de casos de uso para una empresa que gestiona inmuebles. Las actividades estuvieron interesantes para aprender un poco más sobre diagramas y diseño de software, aplicando investigación de otros sistemas.
+  
+- **Comunicación y Liderazgo**: Es fácil. Con tal de estar atento en clase, la sacas, porque la profesora Trinidad Yera da muchas pistas de lo que cae. Pone énfasis en la inteligencia emocional en la dirección de personas, en las tres dimensiones de la organización, con foco en atractividad, en la cohesión en el equipo, en las motivaciones y en los motivos para que las personas actúen inducidas. También hay actividades sobre trabajo individual frente a trabajo en equipo y el discurso «Yo tengo un sueño» de Martin Luther King.
+  
+- **Sistemas operativos avanzados**: Juan Agustín Fraile Nieto es el profesor de esta asignatura, que es principalmente práctica, salvo los primeros temas, que son pura teoría. En la parte práctica, programamos scripts en Linux, PowerShell y C bajo UNIX. En el examen, lo fuerte son dos casos prácticos: uno para realizar un programa en C bajo UNIX (un menú con 4 opciones) y otro en PowerShell para mostrar un menú también.
+  
+- **Programación avanzada**: Aquí se construye sobre lo aprendido en Fundamentos de Programación. Esta asignatura trata sobre Java y se ven clases, programación orientada a objetos, herencia, polimorfismo, gestión de errores mediante excepciones, interfaces gráficas, y luego programación concurrente y de hilos (sincronización, gestión, planificación) y pruebas. Usamos Eclipse. El profesor fue Gustavo Millán, con clases eternas, pero muy implicado, paciente y detallista en sus explicaciones y correcciones.
+  
+- **Redes de ordenadores**: Jesús F. Rodríguez-Aragón fue mi profesor y es otro crack a nivel profesional. Luego me enteré de que también da Ingeniería de Software, una asignatura que me hubiera encantado tener con él. A mí no me gusta tanto Redes, me pasa como con las de Hardware, pero el profesor sabía sacarle partido con buenos ejemplos. Aparte de la parte teórica, que es mucha y extensa en esta asignatura, aprendí a elaborar el subneteo para determinar la clase de red, máscara de subred por defecto y adaptada, rango de subred útil y dirección de difusión para una subred útil.
+  
+- **Estructura de Computadores**: Es densa y acabé aborreciéndola un poco, a pesar del buen profesor Ricardo S. Alonso, que sabe mucho, pero sus clases son pesadas y el temario no ayuda. Eso sí, el examen no va a pillar, ya que entran los ejercicios de clase con otros datos: cachés, frecuencias de reloj, mejoras en el diseño del procesador, etc. Tecnologías de Computadores fue más práctica, pero esta es muy teórica, con la ventaja de que hay muchas clases tipo taller para resolver todos los ejercicios tipo examen.
+  
+- **Inteligencia artificial e ingeniería del conocimiento**: Elena Verdú es muy buena y todas sus clases me parecieron muy interesantes y amenas. La asignatura es complicada, pero no imposible. Además, Elena es muy explícita sobre lo que entra en el examen. Para el examen, te recomiendo que te centres en el aprendizaje supervisado, la tasa de verdaderos positivos, falsos positivos y precisión, clustering, algoritmos genéticos, RDF y problemas de árboles, minimax y poda alfa-beta, matrices de confusión, Graphplan, mutex y encontrar el camino entre dos ciudades. Es de las más interesantes del grado, muy exigente en cuanto a horas, pero vale la pena cada minuto invertido.
+  
+- **Bases de datos**: Aprendes SQL por un tubo y a diseñar bases de datos desde el diseño conceptual, lógico y físico, junto con toda la teoría subyacente. El profesor Gabriel Marín tenía un estilo de dar clase un poco curioso y el examen lo puso larguísimo, pero enfocó la asignatura de manera práctica. Aprendí a realizar un diagrama E/R, a determinar la cardinalidad de las relaciones, los atributos, las claves de las tablas, escribir consultas SQL por un tubo y hacer cosas más avanzadas como triggers y procedimientos.
 
 # Tercer año (Obligatorias)
 
-- **Gestión de proyectos**: xxx.
-- **Ingeniería del software avanzada** xxx.
+- **Gestión de proyectos**: Aunque el profesor Sergio Mauricio demostraba tener experiencia, creo que algunas anécdotas y experiencias de su vida no eran necesarias y ocupaban mucho tiempo. Por ello y por otras razones no se pudo terminar el temario porque la asignatura era muy extensa. Básicamente, esta asignatura es fácil, pero hay que estudiar mucha teoría de proyectos y saber hacer las preguntas de desarrollo, que son de calcular el tiempo total del proyecto, la ruta crítica y elaborar un diagrama de Gantt.
+  
+- **Ingeniería del software avanzada** Aquí aprenderás con Luis Pedraza a desarrollar un proyecto completo paso a paso, incluyendo la visión, los tipos de usuarios, las historias de usuario, el equipo, la estimación de horas, la lista del sprint, los patrones arquitectónicos y los patrones de diseño (sin entrar en el código). Además de la teoría, que es densa pero interesante.
   
 # Tercer año (Optativas)
 ## Mención ingeniería del software
-- **Seguridad en los sistemas de información**: xxx.
-- **Bases de datos avanzadas**: xxx.
-- **Ingeniería de requisitos**: xxx.
-- **Desarrollo de aplicaciones en red**: xxx.
-- **Procesos en ingeniería del software**: xxx.
-- **Tecnologías emergentes**: xxx.
-- **Calidad y auditoría de sistemas de información**: xxx.
-- **Integración de sistemas**: xxx. 
+
+- **Seguridad en los sistemas de información**: El profesor Manuel Sánchez Rubio es genial. Sobre todo, te lo pasarás pipa en clase. El examen está muy acotado. No esperes nada muy práctico, todo es teoría, pero las clases son lo mejor, con ejemplos de la vida real.
+  
+- **Bases de datos avanzadas**: Jesús Pérez Melero es del estilo del otro Jesús de redes, tiene experiencia en la industria y la utiliza para dar ejemplos de la vida real. El temario es muy denso y requiere mucha fuerza de voluntad, sobre todo en lo que respecta a las prácticas y a los ejercicios opcionales de GitHub, pero se aprenden cosas muy útiles, probablemente de las más útiles de todo el grado.
+  
+- **Ingeniería de requisitos**: Sobre todo, sales sabiendo claramente cómo desarrollar la especificación de requisitos completa de un sistema. Luis Pedraza es un gran guía para las mejores prácticas. Si haces todo el listado de sistemas que propone, tus opciones de sacar una buena nota estudiando un poco la teoría son muy altas.
+  
+- **Desarrollo de aplicaciones en red**: Sinceramente, me esperaba mucho más de esta asignatura, ya que no está adaptada al actual ecosistema de desarrollo web con todo lo que ofrece en cuanto a lenguajes y frameworks. Alejandro Valdezate es el profesor, con mucha experiencia en industria, pero no consigue salvar el temario. El examen es tipo test y muy asequible, y lo único reseñable para mí son las prácticas, con las que, si te lo propones, puedes aprender tecnologías investigando por tu cuenta.
+  
+- **Procesos en ingeniería del software**: Mi sensación es que es fácil de aprobar porque el temario es muy similar a los requisitos y a las ingenierías de software anteriores. El examen consiste en saber hacer un diagrama de casos de uso con sus requisitos funcionales y no funcionales, así como la descripción de un curso típico y alternativo de acciones. El profesor José Arturo Mora transmitía que sabía, pero podría haberse implicado más tanto en las clases como en la corrección de las actividades.
+  
+- **Tecnologías emergentes**: El profesor Pablo Gargallo es muy implicado. El temario no da para más, aunque es conocimiento general que viene bien saber sobre tecnologías móviles, comunicaciones, IoT, UX, VR, blockchain, entre otros. No se profundiza en nada, pero se da un barniz por todo. El examen es muy asequible si uno hace las actividades y atiende a las clases, ya que tanto los tests como el caso de uso se practican.
+  
+- **Calidad y auditoría de sistemas de información**: El profesor Gabriel Rivera es majo, pero un poco disperso. El temario es muy denso y, aunque seguía la clase para tomar apuntes de lo más importante, llegó un momento en que me desconecté. El examen es tipo test y asequible si estudias un poco. Las actividades son mucho de auditoría, pero es muy teórica y se centra en definiciones.
+  
+- **Integración de sistemas**: Es posiblemente la más compleja junto a Bases de Datos Avanzadas. Pablo Ortiz no es el tipo de profesor con el que conecte. Sus clases son pesadas, pero acota el examen porque se ven los problemas que luego caen en el examen. La teoría es densa y ciertos temas se hacen muy pesados. Las actividades requieren mucha investigación, pero no son difíciles.
   
 # Tercer año (Optativas)
 ## Mención Computación
-- **Diseño avanzado de algoritmos**: xxx.
-- **Procesadores de lenguajes**: xxx.
-- **Programación Declarativa**: xxx.
+
+- **Diseño avanzado de algoritmos**: Prometía mucho, pero pinchó en mi opinión. Me pareció densa y complicada. Bien es cierto que el profesor se implicó y que en el examen fue bastante laxo pero el contenido es complejo y, en mi opinión, Miguel Ángel Navarro no lo enfocó de la mejor manera. Lo más interesante fue investigar por mi cuenta la clase de problemas NP.
+  
+- **Procesadores de lenguajes**: Es durilla, pero con Marina de la Cruz resulta interesante porque se ve todo el proceso de construcción de un compilador, pasando por el análisis léxico, sintáctico y semántico, además de la comprensión de la gramática de atributos.
+  
+- **Programación Declarativa**: Se enseña Prolog y Haskell. Si los quieres aprender en profundidad, métete en esta asignatura. Me la dio Alejandro Valdezate.
 
 # Cuarto año (Módulo de optatividad)
-- **Reutilización de software**: xxx.
-- **Servicios de tecnología de la información**: xxx.
+
+- **Reutilización de software**: Si no controlas mucho de Java, te puede costar un poco, pero el tema de los patrones se ve a bajo nivel y es muy útil para el futuro. Las clases son largas, pero interesantes, porque el profesor Alfonso Ortega explica el código en vivo. A mí personalmente me gustó cómo lo dio Alfonso, y el contenido es interesante. Está muy en línea con la parte teórica de los patrones de diseño de ISA con Pedraza, pues en esta asignatura se ven a bajo nivel en Java. Se ven muchos patrones, pero el profesor comparte el código en clase y puedes ir copiando y pegando para ver cómo funciona todo. Además, en el examen puedes llevar el código y él suele corregir bien.
+  
+- **Servicios de tecnología de la información**: Si puedes, no la cojas. El profesor Carlos Agüero tiene poco tiempo y la asignatura, tal y como está planteada, es muy densa. No la recomiendo, aunque es asequible.
 
 # Actividades de extensión cultural
 ## 20 créditos
-- **Vivero de Empleo**: xxx.
-- **Vivero de Emprendimiento**: xxx.
-- **Certificado de Microsoft**: xxx.
-- **Certificado de AWS**: xxx.
-- **Seminario de Pensamiento Crítico**: xxx.
-- **Seminario de Liderazgo ético**: xxx.
+
+- **Vivero de Empleo**: Aprenderás a conocerte mejor, a gestionar tus prioridades, a buscar empleo de forma efectiva, a utilizar habilidades digitales, a usar LinkedIn, a crear tu marca personal, a identificar organizaciones tóxicas, a desarrollar tu inteligencia emocional, a prepararte para las entrevistas y las pruebas de selección, a redactar una carta de recomendación y un currículum. La profesora es muy vitalista y el vivero es útil.
+  
+- **Vivero de Emprendimiento**: Sobre todo, se centra en hacer un plan de negocio y en diseñar una dossier de empresa. Las reflexiones pueden serte útiles para preparar tu idea de negocio.
+  
+- **Certificado de Microsoft Azure**: Al final es seguir las indicaciones del correo que tendrás de Jesús. Él se conecta unos minutos antes y tú lo único que tienes que tener es haberte descargado el secure browser y entrar en el enlace de acceso que te da él con tu accesscode: cuando entres en ese enlace tendrás que poner tu user y password de certiport donde te has registrado para el examen y a partir de ahí jesús te desbloquea todo para que tú solo te centres en responder a las preguntas del examen, él estará pendiente durante todo el examen en la sesión del adobe connect.
+  
+- **Certificado de AWS**: Me compré los tests de esta web: https://skillcertpro.com/product/aws-certified-cloud-practitioner-new-practice-exam-set/, me ayudaron mucho. El curso de UNIR impartido por David se me hizo que tiene un formato más ágil y ameno. Con los tests de cada módulo y el test final fui pillando buen ritmo. Examen: Solicita fecha de examen por certmetrics e incluye el código de la UNIR. Es rápido y fácil. Ojo: en mi caso no me dejaron usar ordenador de empresa por un tema técnico. Recomiendo usar un Windows y tener acceso de admin. Si el test de sistema te funciona correctamente no tendrás problema durante el examen. El día del examen te recomiendo empezar puntual 30 minutos antes del examen (a la hora que marca el check-in) porque los vas a necesitar. Es un control exhaustivo donde hay una persona real controlando todo (a mí me hicieron enseñar con la webcam toda la habitación y enseñar las muñecas para ver si no llevaba reloj). Una vez pasas el control, empieza el examen que son 65 preguntas y puedes marcar las que no sepas o dudes para hacerlas al final.
+  
+- **Seminario de Pensamiento Crítico**: Programar no consiste solo en poner líneas de código una detrás de otra. Para mí, tener pensamiento computacional consiste en organizar las cosas. Y organizar implica pensamiento crítico para entender el significado de los conceptos, y el resultado lógico es programar. Muy recomendable este seminario en UNIR para mejorar la profundidad de el juicio.
+  
+- **Seminario de Liderazgo ético**: Interesante para formalizar tu propósito en la vida.
 
 # TFG
-- **Primer cuatrimestre curso 24-25**: Será un proyecto final integrador de los conocimientos adquiridos a lo largo del grado. Yo creo que será la asignatura que más tiempo le tendré que dedicar de toda la carrera porque son 12 créditos. A lo largo del primer cuatrimestre tendrá que redactar la memoria, crear el proyecto técnico, revisarlo con el tutor asignado y preparar la defensa.
+
+- **Primer cuatrimestre curso 24-25**: Será un proyecto final integrador de los conocimientos adquiridos a lo largo del grado. Creo que será la asignatura que más tiempo le tendré que dedicar de toda la carrera, ya que tiene 12 créditos. Durante el primer cuatrimestre, deberé redactar la memoria, crear el proyecto técnico, revisarlo con mi tutor asignado y preparar la defensa.
 
 Si tienes más dudas sobre el grado, estaré encantado de resolverlas en danielprolperez@gmail.com o en mi LinkedIn.
 
