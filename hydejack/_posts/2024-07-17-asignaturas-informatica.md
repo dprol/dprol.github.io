@@ -4,7 +4,7 @@ title: Ingeniería Informática de la UNIR año por año - Mi experiencia
 image: /assets/img/blog/asignaturas-unir.png
 comments: true
 description: >
-  Echa un vistazo a todas las asignaturas del grado en Ingeniería Informática de la UNIR con el fin de que sea más fácil elegir esta carrera o descartarla. Para ello analizo lo más importante de cada asignatura y lo que vas a estar haciendo si entras en la carrera. <!--more-->
+  Un vistazo a todas las asignaturas del grado en Ingeniería Informática de la UNIR con el fin de que sea más fácil elegir esta carrera o descartarla. Para ello analizo qué cosas se ven en las distintas asignaturas y lo que vas a estar haciendo si entras en la carrera. <!--more-->
 ---
 
 ¿Estás pensando en empezar el grado de Ingeniería Informática en la UNIR y tienes dudas? En este post explico que di en cada una de las 37 asignaturas de la carrera y 6 actividades de extensión cultural de una forma concreta.
