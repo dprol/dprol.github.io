@@ -25,3 +25,11 @@ What apps or tools do I use?
 * Spotify (Keep the day flowing with tunes)
   
 * Pocketcasts (Daily podcasts)
+  
+* Office chair: SONGMICS
+  
+* Laptop: ThinkPad X1 Yoga Gen 3
+  
+* Mouse: Logitech M310
+  
+* Headphones: Lenovo Go
