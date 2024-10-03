@@ -1,11 +1,11 @@
 ---
 title: The books I loved
 description: >
-  Favorite Books (In no particular order)
+  Some of my favorite books (In no particular order)
 hide_description: true
 permalink: /books/
 ---
-### (In no particular order)
+### Here are some of the books I've read that have had the biggest impact on me and the way I see the world:
 
 * [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/). By Martin Kleppmann
   
