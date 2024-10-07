@@ -38,3 +38,5 @@ permalink: /books/
 * [Sin que él sepa cómo: Crecer en libertad](https://www.amazon.es/Sin-que-%C3%A9l-sepa-c%C3%B3mo/dp/B08CJQ6GS8/). By D. Julio Diéguez
   
 * [Jerusalén, santa y cautiva: Desde el corazón de la Ciudad Vieja a la eternidad](https://www.amazon.es/Jerusal%C3%A9n-santa-cautiva-coraz%C3%B3n-eternidad/dp/8499429866/). By Mikel Ayestaran
+  
+* [Creativity, Inc.](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012). By Ed Catmull, Amy Wallace
