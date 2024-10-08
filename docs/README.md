@@ -8,23 +8,23 @@ permalink: /stuff/
 
 What apps or tools do I use?
 
-* Webcam: [Razer Kiyo](https://www.razer.com/streaming-cameras/Razer-Kiyo/RZ19-02320100-R3U1)
+* Webcam: Razer Kiyo
 
-* Mic: [Audio-Technica AT2020 USB+](https://www.audio-technica.com/en-us/at2020)
+* Mic: Audio-Technica AT2020 USB+
 
-* General scratchpad for documenting stuff: [Zoho Notebook](https://www.zoho.com/notebook/)
+* General scratchpad for documenting stuff: Zoho Notebook
 
-* Task management: [Things](https://culturedcode.com/things/)
+* Task management: Things
 
-* Password Manager: [1Password](https://1password.com/)
+* Password Manager: 1Password
   
-* All image based editing: [Photopea](https://www.photopea.com/)
+* All image based editing: Photopea
 
-* Zoom (Video Conferencing)
+* Conferencing: Zoom for personal, Teams and Meet for work
   
-* Spotify (Keep the day flowing with tunes)
+* Keep the day flowing with tunes: Spotify
   
-* Pocketcasts (Daily podcasts)
+* Daily podcasts: Pocket Casts
   
 * Office chair: SONGMICS
   
@@ -33,3 +33,22 @@ What apps or tools do I use?
 * Mouse: Logitech M310
   
 * Headphones: Lenovo Go
+  
+* Email: Gmail for personal, Outlook for work
+  
+* Messaging: Whatsapp
+  
+* Calendar: Google Calendar
+  
+* Browser: Firefox and Chrome
+  
+* Generative AI: ChatGPT and Claude
+  
+* Storage: Google Drive for personal, One Drive for work
+  
+* Presentations: Google Slides for personal, Power Point for work
+  
+* Audio editing: Audacity
+  
+* Transcription: TurboScribe
+
