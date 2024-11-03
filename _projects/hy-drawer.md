@@ -19,3 +19,5 @@ accent_image:
 ---
 
 **Software Guru** is one of the most important software development magazines in the world. A podcast for saas founders and developers interested in building great software products.
+
+
