@@ -3,7 +3,7 @@ layout: post
 title: Por qué decidí estudiar ingeniería informática en UNIR
 image: /assets/img/blog/unir.jpg
 description: >
-  Estudiar una carrera requiere un compromiso y una disciplina grande porque son mínimo 4 años de tu tiempo. En este post te cuento por qué estudiar esta carrera con especialización en Ingeniería del Software y por qué considero que es una buena opción entrar en una universidad online como UNIR.  <!--more-->
+  Estudiar una carrera requiere compromiso, motivación y disciplina grande porque son mínimo 4 años de tu tiempo. En este post te cuento por qué estudiar esta carrera con especialización en Ingeniería del Software y por qué considero que es una buena opción entrar en una universidad online como UNIR.  <!--more-->
 ---
 
 Hay cosas que se aprenden en la universidad que es difícil obtener en otro lado. En este punto de mi carrera profesional un título no me hubiera generado más dinero, pero lo que sí me ha ayudado la universidad es a saber más fundamentos, tener mejores conocimientos, contactos y tener mejores proyectos personales. La universidad, por tanto, es una herramienta que si la aprovechas vale totalmente la pena.
