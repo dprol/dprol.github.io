@@ -117,5 +117,5 @@ También eché de menos más flexibilidad para elegir el entorno de desarrollo i
 
 - **Primer cuatrimestre curso 24-25**: Será un proyecto final integrador de los conocimientos adquiridos a lo largo del grado. Creo que será la asignatura que más tiempo le tendré que dedicar de toda la carrera, ya que tiene 12 créditos. Durante el primer cuatrimestre, deberé redactar la memoria, crear el proyecto técnico, revisarlo con mi tutor asignado y preparar la defensa.
 
-Si tienes más dudas sobre el grado, estaré encantado de resolverlas en danielprolperez@gmail.com o en mi LinkedIn.
+Si tienes dudas sobre el grado, estaré encantado de resolverlas en danielprolperez@gmail.com o en mi LinkedIn. Si quieres solicitar información en la UNIR, puedes hacerlo a través de <a href="https://recomendar.unir.net/IZZM5B">este enlace</a>.
 
