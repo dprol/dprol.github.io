@@ -32,4 +32,4 @@ El plan de estudios de ingeniería informática de UNIR está bastante actualiza
 
 Personalmente a mí me ha parecido una carrera muy bonita y estoy muy contento por haberme decidido por la UNIR para no parar de aprender en un sector tan cambiante. 
 
-Si tienes dudas sobre el grado, estaré encantado de resolverlas en danielprolperez@gmail.com o en mi LinkedIn.
+Si tienes dudas sobre el grado, estaré encantado de resolverlas en danielprolperez@gmail.com o en mi LinkedIn. Si quieres solicitar información en la UNIR, puedes hacerlo a través de <a href="https://recomendar.unir.net/IZZM5B">este enlace</a>.
