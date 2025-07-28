@@ -1,8 +1,7 @@
 ---
 layout: list
 title: Posts
-slug: hydejack
+slug: ""
 description: >
   Posts ordenados por año de publicación.
-  
 ---
