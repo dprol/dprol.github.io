@@ -24,7 +24,7 @@ title:                Daniel Prol
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Person that loves building software. Shining a light on things.
+  Welcome to my blog! Here you will find all of my long-form thoughts on programming, education and more.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -37,13 +37,6 @@ keywords:              []
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/icons/photo.JPG
-
-# This should be the same author as first entry in `_data/authors.yml`.
-author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
-  # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
@@ -293,13 +286,6 @@ plugins:
 #   app_id:              <id>
 #   publisher:           <id>
 #   admins:              <id>
-
-# Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
 
 
 # Other Plugins
