@@ -1,22 +1,130 @@
-{% include body/menu.html %}
-
-<hy-push-state
-  replace-ids="_main"
-  link-selector="a[href]:not([href*='/assets/']):not(.external):not(.no-push-state)"
-  duration="250"
-  script-selector="script:not([type^='math/tex'])"
-  prefetch
->
-  {% if page.cover %}
-    {% include body/sidebar.html %}
-    {% include body/main.html %}
-  {% else %}
-    {% include body/main.html %}
-    {% include body/sidebar.html %}
-  {% endif %}
-</hy-push-state>
-
-{% include body/scripts.html %}
-{% include my-body.html %}
-
-{% include templates/index.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Daniel Prol | Blog movido</title>
+    <meta name="description" content="Welcome to my blog! Here you will find all of my long-form thoughts on programming, education and more.">
+    <meta http-equiv="refresh" content="0; url=https://blog.danielprol.com">
+    <link rel="canonical" href="https://blog.danielprol.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body { 
+            font-family: 'Noto Sans', Helvetica, Arial, sans-serif; 
+            background: linear-gradient(135deg, rgb(25,55,71) 0%, rgb(79,177,186) 100%);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .container {
+            max-width: 600px;
+            text-align: center;
+            padding: 40px 20px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        
+        h1 {
+            font-family: 'Roboto Slab', serif;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        
+        p {
+            font-size: 1.2rem;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        
+        a {
+            color: rgb(255, 255, 255);
+            text-decoration: none;
+            font-weight: bold;
+            padding: 12px 24px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 25px;
+            display: inline-block;
+            margin-top: 10px;
+            transition: all 0.3s ease;
+        }
+        
+        a:hover {
+            background: rgba(255, 255, 255, 0.3);
+            border-color: rgba(255, 255, 255, 0.5);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-left-color: white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .countdown {
+            font-size: 1.1rem;
+            margin-top: 20px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>¡Mi blog se ha mudado!</h1>
+        <p>Bienvenido al blog de Daniel Prol</p>
+        <div class="spinner"></div>
+        <p>Redirigiendo a mi nueva web...</p>
+        <div class="countdown" id="countdown">Redirigiendo en 3 segundos</div>
+        <p><a href="https://blog.danielprol.com" id="direct-link">Ir directamente</a></p>
+    </div>
+    
+    <script>
+        // Redirección inmediata para bots/crawlers
+        const userAgent = navigator.userAgent.toLowerCase();
+        if (userAgent.includes('bot') || userAgent.includes('crawler') || userAgent.includes('spider')) {
+            window.location.href = "https://blog.danielprol.com";
+        }
+        
+        // Countdown para usuarios
+        let seconds = 3;
+        const countdownEl = document.getElementById('countdown');
+        const directLink = document.getElementById('direct-link');
+        
+        const countdown = setInterval(() => {
+            seconds--;
+            if (seconds > 0) {
+                countdownEl.textContent = `Redirigiendo en ${seconds} segundo${seconds !== 1 ? 's' : ''}`;
+            } else {
+                countdownEl.textContent = 'Redirigiendo ahora...';
+                clearInterval(countdown);
+                window.location.href = "https://blog.danielprol.com";
+            }
+        }, 1000);
+        
+        // También redirigir si hacen clic en cualquier parte
+        document.addEventListener('click', () => {
+            window.location.href = "https://blog.danielprol.com";
+        });
+    </script>
+</body>
+</html>
